@@ -1,0 +1,37 @@
+{
+  "name": "vector-knowledge-base",
+  "version": "1.0.0",
+  "description": "OpenClaw 向量知识库",
+  "created": "2026-04-20",
+  
+  "vector_db": {
+    "provider": "local",
+    "dimension": 1536,
+    "metric": "cosine"
+  },
+  
+  "embedding": {
+    "model": "text-embedding-ada-002",
+    "dimension": 1536,
+    "chunk_size": 512,
+    "chunk_overlap": 50
+  },
+  
+  "retrieval": {
+    "top_k": 5,
+    "similarity_threshold": 0.7
+  },
+  
+  "paths": {
+    "base": "/home/node/.openclaw/workspace/knowledge-base",
+    "docs": "/home/node/.openclaw/workspace/knowledge-base/docs",
+    "vectors": "/home/node/.openclaw/workspace/knowledge-base/vectors",
+    "cache": "/home/node/.openclaw/workspace/knowledge-base/cache"
+  },
+  
+  "skills": {
+    "pinecone": "/home/node/.openclaw/workspace/skills/pinecone",
+    "rag": "/home/node/.openclaw/workspace/skills/rag",
+    "embeddings": "/home/node/.openclaw/workspace/skills/embeddings"
+  }
+}

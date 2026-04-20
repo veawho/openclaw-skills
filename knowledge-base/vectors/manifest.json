@@ -1,0 +1,16 @@
+{
+  "documents": [
+    {
+      "path": "/home/node/.openclaw/workspace/knowledge-base/docs/openclaw-guide.md",
+      "name": "openclaw-guide.md",
+      "chunks": 1,
+      "type": ".md"
+    },
+    {
+      "path": "docs/skills-catalog.md",
+      "name": "skills-catalog.md",
+      "chunks": 1,
+      "type": ".md"
+    }
+  ]
+}
