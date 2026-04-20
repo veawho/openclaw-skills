@@ -1,0 +1,24 @@
+{
+  "name": "omni-coordinator",
+  "description": "综合调度智能体 - 自动组合多个Skills的能力来完成复杂任务",
+  "version": "1.0.0",
+  "author": "巫师 叔叔",
+  "homepage": "https://github.com/veawho/openclaw-skills",
+  "created_at": "2026-04-20",
+  "skills_used": [
+    "agent-orchestrate",
+    "multi-agent-coordinator",
+    "memory-setup",
+    "pinecone",
+    "rag",
+    "clawbrowser",
+    "gemini"
+  ],
+  "capabilities": [
+    "task_analysis",
+    "skills_dispatch",
+    "workflow_management",
+    "data_integration",
+    "memory_bridging"
+  ]
+}
