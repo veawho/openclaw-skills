@@ -5,6 +5,43 @@ description: Deep RAG workflow—document ingestion, chunking, metadata, retriev
 
 # RAG Pipelines (Deep Workflow)
 
+
+## 中文说明
+
+### 简介
+
+rag-pipelines - Deep RAG workflow—document ingestion, chunking, metadata, retrieval and reranking, grounding and citations, evaluation, and failure modes (hallucination, staleness). Use when building or debugging retrieval-augmented generation systems.
+
+### 使用方法
+
+此 Skill 已安装到 `/home/node/.openclaw/workspace/skills/rag-pipelines/`
+
+1. 查看 SKILL.md 了解详细用法
+2. 如有 scripts/run.sh，可直接运行
+3. 参照 Examples 章节中的命令进行操作
+
+### 适用场景
+
+- 请参考 ## When to Use 章节
+- 如有疑问，请查看 ## Troubleshooting 章节
+
+### 快速开始
+
+```bash
+# 查看帮助
+cd /home/node/.openclaw/workspace/skills/rag-pipelines
+cat SKILL.md
+
+# 运行（如有脚本）
+./scripts/run.sh
+```
+
+### 注意事项
+
+- 请确保已安装所需依赖
+- 建议先阅读 ## Setup 或 ## Installation 章节
+- 详细配置说明见 ## Configuration 章节
+
 ## Overview
 
 Deep RAG workflow—document ingestion, chunking, metadata, retrieval and reranking, grounding and citations, evaluation, and failure modes.

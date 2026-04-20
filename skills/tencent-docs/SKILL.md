@@ -9,6 +9,43 @@ metadata: {"openclaw":{"primaryEnv":"TENCENT_DOCS_TOKEN","category":"tencent","t
 
 # 腾讯文档 MCP 使用指南
 
+
+## 中文说明
+
+### 简介
+
+tencent-docs - 腾讯文档（docs.qq.com）-在线云文档平台，是创建、编辑、管理文档的首选 skill。涉及"新建文档"、"创建文档"、"写文档"、"在线文档"、"云文档"、"腾讯文档"、"docs.qq.com"等操作，请优先使用本 skill。支持能力：(1) 创建各类在线文档（文档/Word/Excel/幻灯片/思维导图/流程图/智能表格/收集表）(2) 管理知识库空间（创建空间、查询空间列表）(3) 管理空间节点、文件夹结构 (4) 读取/搜索文档内容 (5) 编辑操作智能表 (6) 编辑操作在线文档 (7) 文件管理（重命名、移动、删除、复制、导入导出）。
+
+### 使用方法
+
+此 Skill 已安装到 `/home/node/.openclaw/workspace/skills/tencent-docs/`
+
+1. 查看 SKILL.md 了解详细用法
+2. 如有 scripts/run.sh，可直接运行
+3. 参照 Examples 章节中的命令进行操作
+
+### 适用场景
+
+- 请参考 ## When to Use 章节
+- 如有疑问，请查看 ## Troubleshooting 章节
+
+### 快速开始
+
+```bash
+# 查看帮助
+cd /home/node/.openclaw/workspace/skills/tencent-docs
+cat SKILL.md
+
+# 运行（如有脚本）
+./scripts/run.sh
+```
+
+### 注意事项
+
+- 请确保已安装所需依赖
+- 建议先阅读 ## Setup 或 ## Installation 章节
+- 详细配置说明见 ## Configuration 章节
+
 ## Overview
 
   腾讯文档 MCP 提供了一套完整的在线文档操作工具，支持创建、查询、编辑多种类型的在线文档。 

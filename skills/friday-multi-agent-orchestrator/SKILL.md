@@ -5,6 +5,43 @@ description: Design, build, and manage multi-agent teams that turn a solo operat
 
 # Multi-Agent Orchestrator
 
+
+## 中文说明
+
+### 简介
+
+multi-agent-orchestrator - Design, build, and manage multi-agent teams that turn a solo operator into a 1000-person organization. Covers team role design (CEO/PM/Engineer/Analyst/Writer/Monitor), inter-agent communication patterns, task distribution, conflict resolution, and priority management. Based on real production experience running 13-agent teams on OpenClaw. Use when the user wants to build an agent team, orchestrate multiple AI agents, design agent roles, set up agent communication, create a one-person company with AI agents, implement multi-agent workflows, or scale from solo to team-of-agents. Triggers on multi-agent, agent team, agent orchestration, AI team, agent collaboration, agent roles, one-person company, solo founder scaling, agent communication, task delegation to agents, swarm intelligence.
+
+### 使用方法
+
+此 Skill 已安装到 `/home/node/.openclaw/workspace/skills/friday-multi-agent-orchestrator/`
+
+1. 查看 SKILL.md 了解详细用法
+2. 如有 scripts/run.sh，可直接运行
+3. 参照 Examples 章节中的命令进行操作
+
+### 适用场景
+
+- 请参考 ## When to Use 章节
+- 如有疑问，请查看 ## Troubleshooting 章节
+
+### 快速开始
+
+```bash
+# 查看帮助
+cd /home/node/.openclaw/workspace/skills/friday-multi-agent-orchestrator
+cat SKILL.md
+
+# 运行（如有脚本）
+./scripts/run.sh
+```
+
+### 注意事项
+
+- 请确保已安装所需依赖
+- 建议先阅读 ## Setup 或 ## Installation 章节
+- 详细配置说明见 ## Configuration 章节
+
 ## Overview
 
   Build production-grade agent teams. Battle-tested with 13 concurrent agents running real operations—financial analysis, content production, code engineering, and executive decision-making. 

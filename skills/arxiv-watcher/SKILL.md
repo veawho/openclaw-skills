@@ -5,6 +5,43 @@ description: Search and summarize papers from ArXiv. Use when the user asks for 
 
 # ArXiv Watcher
 
+
+## 中文说明
+
+### 简介
+
+arxiv-watcher - Search and summarize papers from ArXiv. Use when the user asks for the latest research, specific topics on ArXiv, or a daily summary of AI papers.
+
+### 使用方法
+
+此 Skill 已安装到 `/home/node/.openclaw/workspace/skills/arxiv-watcher/`
+
+1. 查看 SKILL.md 了解详细用法
+2. 如有 scripts/run.sh，可直接运行
+3. 参照 Examples 章节中的命令进行操作
+
+### 适用场景
+
+- 请参考 ## When to Use 章节
+- 如有疑问，请查看 ## Troubleshooting 章节
+
+### 快速开始
+
+```bash
+# 查看帮助
+cd /home/node/.openclaw/workspace/skills/arxiv-watcher
+cat SKILL.md
+
+# 运行（如有脚本）
+./scripts/run.sh
+```
+
+### 注意事项
+
+- 请确保已安装所需依赖
+- 建议先阅读 ## Setup 或 ## Installation 章节
+- 详细配置说明见 ## Configuration 章节
+
 ## Overview
 
   This skill interacts with the ArXiv API to find and summarize the latest research papers. 

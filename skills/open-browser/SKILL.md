@@ -5,6 +5,43 @@ description: Visual AI browser automation via OpenBrowser Agent. Use when the us
 
 # OpenBrowser Skill
 
+
+## 中文说明
+
+### 简介
+
+open-browser - Visual AI browser automation via OpenBrowser Agent. Use when the user asks to "automate browser", "control Chrome", "browse website with AI", "use OpenBrowser", "run browser automation", or mentions web scraping, form filling, UI testing. Advantages over Browser Relay based on evaluation with human-like interactive web tasks (multi-step workflows, form interactions, agent dialogs): (1) 100% pass rate vs 85.7%, (2) Isolated context prevents overflow, (3) Handles complex tasks that Browser Relay fails. Prefer for complex multi-step workflows; simple page visits can use Browser Relay.
+
+### 使用方法
+
+此 Skill 已安装到 `/home/node/.openclaw/workspace/skills/open-browser/`
+
+1. 查看 SKILL.md 了解详细用法
+2. 如有 scripts/run.sh，可直接运行
+3. 参照 Examples 章节中的命令进行操作
+
+### 适用场景
+
+- 请参考 ## When to Use 章节
+- 如有疑问，请查看 ## Troubleshooting 章节
+
+### 快速开始
+
+```bash
+# 查看帮助
+cd /home/node/.openclaw/workspace/skills/open-browser
+cat SKILL.md
+
+# 运行（如有脚本）
+./scripts/run.sh
+```
+
+### 注意事项
+
+- 请确保已安装所需依赖
+- 建议先阅读 ## Setup 或 ## Installation 章节
+- 详细配置说明见 ## Configuration 章节
+
 Visual AI browser automation. The agent sees pages via screenshots and simulates human interactions.
 
 ## Why OpenBrowser

@@ -5,6 +5,43 @@ description: Designs and outputs n8n workflow JSON with robust triggers, idempot
 
 # n8n workflow automation with retries, logging, and review queues
 
+
+## 中文说明
+
+### 简介
+
+n8n-workflow-automation - Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging, retries, and human-in-the-loop review queues. Use when you need an auditable automation that won’t silently fail.
+
+### 使用方法
+
+此 Skill 已安装到 `/home/node/.openclaw/workspace/skills/n8n-workflow-automation/`
+
+1. 查看 SKILL.md 了解详细用法
+2. 如有 scripts/run.sh，可直接运行
+3. 参照 Examples 章节中的命令进行操作
+
+### 适用场景
+
+- 请参考 ## When to Use 章节
+- 如有疑问，请查看 ## Troubleshooting 章节
+
+### 快速开始
+
+```bash
+# 查看帮助
+cd /home/node/.openclaw/workspace/skills/n8n-workflow-automation
+cat SKILL.md
+
+# 运行（如有脚本）
+./scripts/run.sh
+```
+
+### 注意事项
+
+- 请确保已安装所需依赖
+- 建议先阅读 ## Setup 或 ## Installation 章节
+- 详细配置说明见 ## Configuration 章节
+
 ## PURPOSE
 Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging, retries, and human-in-the-loop review queues.
 

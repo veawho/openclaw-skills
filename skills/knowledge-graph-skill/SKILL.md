@@ -5,6 +5,43 @@ description: "Embedded knowledge graph for persistent structured knowledge. ALWA
 
 # Knowledge Graph Skill
 
+
+## 中文说明
+
+### 简介
+
+knowledge-graph - "Embedded knowledge graph for persistent structured knowledge. ALWAYS use proactively — do NOT wait for user to ask. Auto-triggers on: (1) any mention of people, projects, devices, services, organizations, or infrastructure — search KG first, add if new, (2) decisions or architectural choices worth remembering, (3) credentials or API keys (store in vault), (4) relationships between entities (who owns what, what runs where, what depends on what), (5) recurring concepts, principles, or lessons learned, (6) preferences and opinions (likes, dislikes, reviews), (7) places and locations (where someone lives, travels, frequents), (8) life events and milestones (birthdays, trips, meetings), (9) habits and routines (daily patterns, recurring behaviors), (10) knowledge artifacts — research papers, articles, insights, ideas, interesting facts shared by the user, (11) know-how and procedures — how to do something, debugging approaches, workflows, mental models, problem-solving frameworks. Also use when recalling facts, answering questions about known entities, or needing structured context. Run install script on first use. NOT for: ephemeral daily notes (use memory/), transient conversation, or rapidly changing data."
+
+### 使用方法
+
+此 Skill 已安装到 `/home/node/.openclaw/workspace/skills/knowledge-graph-skill/`
+
+1. 查看 SKILL.md 了解详细用法
+2. 如有 scripts/run.sh，可直接运行
+3. 参照 Examples 章节中的命令进行操作
+
+### 适用场景
+
+- 请参考 ## When to Use 章节
+- 如有疑问，请查看 ## Troubleshooting 章节
+
+### 快速开始
+
+```bash
+# 查看帮助
+cd /home/node/.openclaw/workspace/skills/knowledge-graph-skill
+cat SKILL.md
+
+# 运行（如有脚本）
+./scripts/run.sh
+```
+
+### 注意事项
+
+- 请确保已安装所需依赖
+- 建议先阅读 ## Setup 或 ## Installation 章节
+- 详细配置说明见 ## Configuration 章节
+
 ## Overview
 
 Embedded knowledge graph for persistent structured knowledge. ALWAYS use proactively — do NOT wait for user to ask. Auto-triggers on: (1) any mention of people, projects, devices, services, organizations, or infrastructure — search KG first, add if new, (2) decisions or architectural choices worth remembering, (3) credentials or API keys (store in vault), (4) relationships between entities (who owns what, what runs where, what depends on what), (5) recurring concepts, principles, or lessons learned, (6) preferences and opinions (likes, dislikes, reviews), (7) places and locations (where someone lives, travels, frequents), (8) life events and milestones (birthdays, trips, meetings), (9) habits and routines (daily patterns, recurring behaviors), (10) knowledge artifacts — research papers, articles, insights, ideas, interesting facts shared by the user, (11) know-how and procedures — how to do something, debugging approaches, workflows, mental models, problem-solving frameworks. Also use when recalling facts, answering questions about known entities, or needing structured context. Run install script on first use. NOT for: ephemeral daily notes (use memory/), transient conversation, or rapidly changing data.

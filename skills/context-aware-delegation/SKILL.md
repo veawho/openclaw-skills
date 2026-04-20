@@ -14,6 +14,43 @@ metadata:
 ---
 
 # Context-Aware Delegation
+
+
+## 中文说明
+
+### 简介
+
+context-aware-delegation - Give isolated sessions (cron jobs, sub-agents, event handlers) full conversation context from your main session using sessions_history. Run cheap background tasks (Haiku) with expensive context (Sonnet-level awareness) — best of both worlds.
+
+### 使用方法
+
+此 Skill 已安装到 `/home/node/.openclaw/workspace/skills/context-aware-delegation/`
+
+1. 查看 SKILL.md 了解详细用法
+2. 如有 scripts/run.sh，可直接运行
+3. 参照 Examples 章节中的命令进行操作
+
+### 适用场景
+
+- 请参考 ## When to Use 章节
+- 如有疑问，请查看 ## Troubleshooting 章节
+
+### 快速开始
+
+```bash
+# 查看帮助
+cd /home/node/.openclaw/workspace/skills/context-aware-delegation
+cat SKILL.md
+
+# 运行（如有脚本）
+./scripts/run.sh
+```
+
+### 注意事项
+
+- 请确保已安装所需依赖
+- 建议先阅读 ## Setup 或 ## Installation 章节
+- 详细配置说明见 ## Configuration 章节
 ## (aka "SmartBeat")
 
 **Problem:** Isolated sessions (cron jobs, sub-agents) can't see your main session conversation history. They're cheap (use Haiku) but blind to context.

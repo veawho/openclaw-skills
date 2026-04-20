@@ -5,6 +5,43 @@ description: Professional anti-giveup debugging protocol for coding tasks where 
 
 # PUA Debugging Pro (Dignified Edition)
 
+
+## 中文说明
+
+### 简介
+
+pua-debugging-pro - Professional anti-giveup debugging protocol for coding tasks where the agent starts looping, deflecting to users, or trying to end early without evidence. Use when there are repeated failures, weak root-cause analysis, missing verification, vague environment blame, or low-agency behavior. Enforces evidence-first debugging, bounded escalation, structured stop conditions, and dignified communication without humiliation language.
+
+### 使用方法
+
+此 Skill 已安装到 `/home/node/.openclaw/workspace/skills/pua-debugging-pro/`
+
+1. 查看 SKILL.md 了解详细用法
+2. 如有 scripts/run.sh，可直接运行
+3. 参照 Examples 章节中的命令进行操作
+
+### 适用场景
+
+- 请参考 ## When to Use 章节
+- 如有疑问，请查看 ## Troubleshooting 章节
+
+### 快速开始
+
+```bash
+# 查看帮助
+cd /home/node/.openclaw/workspace/skills/pua-debugging-pro
+cat SKILL.md
+
+# 运行（如有脚本）
+./scripts/run.sh
+```
+
+### 注意事项
+
+- 请确保已安装所需依赖
+- 建议先阅读 ## Setup 或 ## Installation 章节
+- 详细配置说明见 ## Configuration 章节
+
 ## Overview
 
   Use this protocol to increase execution quality under failure, while preserving professional tone. 
