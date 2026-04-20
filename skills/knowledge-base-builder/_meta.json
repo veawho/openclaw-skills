@@ -1,0 +1,10 @@
+{
+  "name": "knowledge-base-builder",
+  "description": "构建本地向量知识库系统",
+  "version": "1.0.0",
+  "author": "巫师 叔叔",
+  "homepage": "https://github.com/veawho/openclaw-skills",
+  "created_at": "2026-04-20",
+  "skills_used": ["pinecone", "rag", "embeddings", "memory-setup"],
+  "capabilities": ["document-import", "vectorization", "semantic-search", "qa"]
+}
