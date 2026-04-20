@@ -1,7 +1,7 @@
 {
-  "name": "openclaw-kb",
+  "name": "openclaw-vector-kb",
   "dimension": 1536,
-  "doc_count": 1,
-  "created": "2026-04-20 19:07:42",
-  "provider": "local"
+  "doc_count": 0,
+  "created": "/home/node/.openclaw/workspace/knowledge-base",
+  "status": "ready"
 }

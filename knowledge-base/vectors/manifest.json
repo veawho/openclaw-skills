@@ -11,6 +11,36 @@
       "name": "skills-catalog.md",
       "chunks": 1,
       "type": ".md"
+    },
+    {
+      "path": "docs/skills-catalog.md",
+      "name": "skills-catalog.md",
+      "chunks": 1,
+      "type": ".md"
+    },
+    {
+      "path": "docs/openclaw-config.md",
+      "name": "openclaw-config.md",
+      "chunks": 1,
+      "type": ".md"
+    },
+    {
+      "path": "docs/session-memory.md",
+      "name": "session-memory.md",
+      "chunks": 1,
+      "type": ".md"
+    },
+    {
+      "path": "docs/workspace-files.md",
+      "name": "workspace-files.md",
+      "chunks": 1,
+      "type": ".md"
+    },
+    {
+      "path": "docs/skills-optimization.md",
+      "name": "skills-optimization.md",
+      "chunks": 1,
+      "type": ".md"
     }
   ]
 }
