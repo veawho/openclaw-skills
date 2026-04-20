@@ -2,6 +2,7 @@
 name: Embeddings
 slug: embeddings
 description: Generate, store, and search vector embeddings with provider selection, chunking strategies, and similarity search optimization.
+description_zh: Generte, st或e, 和 搜索 vect或 嵌入s 使用 provider selection, chunking strtegies, 和 相似性搜索 optimiztion.。
 ---
 
 ## When to Use

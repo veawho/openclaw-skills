@@ -1,6 +1,7 @@
 ---
 name: security-audit
 description: Audit codebases and infrastructure for security issues. Use when scanning dependencies for vulnerabilities, detecting hardcoded secrets, checking OWASP top 10 issues, verifying SSL/TLS, auditing file permissions, or reviewing code for injection and auth flaws.
+description_zh: Audit codebses 和 infrstructure 用于 security issues. 用于 scnning dependencies 用于 vulnerbilities, detecting hrdcoded secrets, checking OWASP top 10 issues, verifying SSL/TLS, uditing file permissions, 或 reviewing code 用于 injection 和 uth flws.。
 metadata: {"clawdbot":{"emoji":"🔒","requires":{"anyBins":["npm","pip","git","openssl","curl"]},"os":["linux","darwin","win32"]}}
 ---
 

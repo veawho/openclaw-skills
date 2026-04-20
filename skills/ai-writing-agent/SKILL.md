@@ -1,6 +1,7 @@
 ---
 name: ai-writing-agent
 description: AI writing assistant that generates structured articles, blog posts, and marketing content
+description_zh: AI writing ssistnt tht 生成s structured rticles, blog posts, 和 mrketing content。
 version: 1.1.0
 author: nguyet601
 tags:

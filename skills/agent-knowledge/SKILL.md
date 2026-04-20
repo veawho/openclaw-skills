@@ -1,6 +1,7 @@
 ---
 name: knowledge
 description: Unified knowledge capture and retrieval for URLs, video/article/paper extracts, social posts, and agent research outputs. Use when saving anything worth re-finding later, summarizing external content, tracking sourced claims, or answering "where did we store that?" questions.
+description_zh: Unified knowledge cpture 和 retrievl 用于 URLs, 视频/rticle/pper 提取s, socil posts, 和 智能体 re搜索 outputs. 用于 sving nything w或th re-finding lter, summrizing externl content, 跟踪ing sourced clims, 或 nswering "where did we st或e tht?" questions.。
 ---
 
 # Knowledge Skill

@@ -1,6 +1,7 @@
 ---
 name: shared-pinecone-rag
 description: Use the shared Pinecone RAG index for any agent in this workspace. Use when an agent needs to ingest markdown/text docs into pulse-rag or query semantic context from the shared index.
+description_zh: Use shred Pinecone RAG index 用于 ny 智能体 in this w或kspce. 用于 n 智能体 needs to ingest mrkdown/text docs into pulse-rg 或 query semntic 上下文 from shred index.。
 ---
 
 # Shared Pinecone RAG

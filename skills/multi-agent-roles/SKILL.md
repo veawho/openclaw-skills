@@ -1,6 +1,7 @@
 ---
 name: multi-agent-roles
 description: Professional AI role design framework for multi-agent systems.
+description_zh: Professionl AI role design frmew或k 用于 多智能体 systems.。
 ---
 
 # Multi-Agent Roles - Professional AI Role Design

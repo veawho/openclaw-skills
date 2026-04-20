@@ -1,6 +1,7 @@
 ---
 name: memory-on-demand
 description: "按需记忆检索。当用户询问历史相关问题时，自动搜索 memory 和 QMD 获取相关信息。"
+description_zh: "按需记忆检索。当用户询问历史相关问题时，自动搜索 mem或y 和 QMD 获取相关信息。"。
 argument-hint: "自动记忆检索"
 ---
 

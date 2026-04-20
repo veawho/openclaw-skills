@@ -1,6 +1,7 @@
 ---
 name: rag-pipelines
 description: Deep RAG workflow—document ingestion, chunking, metadata, retrieval and reranking, grounding and citations, evaluation, and failure modes (hallucination, staleness). Use when building or debugging retrieval-augmented generation systems.
+description_zh: Deep RAG 工作流—文档 ingestion, chunking, metdt, retrievl 和 rernking, grounding 和 cittions, evlution, 和 filure modes （hllucintion, stleness）. 用于 building 或 调试 retrievl-ugmented genertion systems.。
 ---
 
 # RAG Pipelines (Deep Workflow)

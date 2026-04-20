@@ -1,6 +1,7 @@
 ---
 name: content-summarizer
 description: Fetch any URL and produce a structured content summary with extractive summarization, AI enhancement prompts, and structured output templates. Extracts clean text from HTML, identifies key sentences, generates metadata, and provides ready-to-use prompts for AI summarization. Perfect for content repurposing, research pipelines, and newsletter workflows.
+description_zh: Fetch ny URL 和 produce structured content summry 使用 提取ive 摘要, AI enhncement prompts, 和 structured output templtes. Extrcts clen text from HTML, identifies key sentences, 生成s metdt, 和 provides redy-to-use prompts 用于 AI 摘要. Perfect 用于 content repurposing, re搜索 pipelines, 和 newsletter 工作流s.。
 metadata:
   {
     "openclaw":

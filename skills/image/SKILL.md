@@ -4,6 +4,7 @@ slug: image
 version: 1.0.4
 homepage: https://clawic.com/skills/image
 description: "Create, inspect, process, and optimize image files and visual assets with reliable format choice, resizing, compression, color-profile, metadata, and platform-export checks. Use when (1) the task is about images, screenshots, logos, product photos, or graphics; (2) resizing, converting, compressing, cropping, metadata, or export specs matter; (3) the asset must survive web, social, ecommerce, or print delivery without quality or format mistakes."
+description_zh: "Crete, inspect, 处理, 和 optimize 图像 files 和 visul ssets 使用 relible 用于mt choice, resizing, compression, col或-profile, metdt, 和 plt用于m-exp或t checks. 用于 （1） 任务 is bout 图像s, 截图s, logos, product photos, 或 grphics; （2） resizing, converting, compressing, cropping, metdt, 或 exp或t specs mtter; （3） sset must survive web, socil, ecommerce, 或 print delivery 使用out qulity 或 用于mt mistkes."。
 changelog: "Expanded the skill with branding, screenshot, accessibility, and richer platform-specific workflows while preserving stronger image-processing guidance."
 metadata: {"clawdbot":{"emoji":"🖼️","os":["linux","darwin","win32"]}}
 ---

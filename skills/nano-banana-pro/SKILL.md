@@ -1,6 +1,7 @@
 ---
 name: nano-banana-pro
 description: Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image). Use for image create/modify requests incl. edits. Supports text-to-image + image-to-image; 1K/2K/4K; use --input-image.
+description_zh: Generte/edit 图像s 使用 Nno Bnn Pro （Gemini 3 Pro Imge）. Use 用于 图像 创建/modify requests incl. edits. Supp或ts text-to-图像 + 图像-to-图像; 1K/2K/4K; use --input-图像.。
 ---
 
 # Nano Banana Pro Image Generation & Editing

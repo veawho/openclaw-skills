@@ -1,6 +1,7 @@
 ---
 name: performance
 description: Optimize web performance and LLM API costs. Covers loading speed, runtime efficiency, resource optimization, and cost-aware LLM pipelines with model routing, budget tracking, and prompt caching.
+description_zh: Optimize web per用于mnce 和 LLM API costs. Covers loding speed, 运行time efficiency, resource optimiztion, 和 cost-wre LLM pipelines 使用 model routing, budget 跟踪ing, 和 prompt cching.。
 license: MIT
 metadata:
   author: web-quality-skills

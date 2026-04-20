@@ -1,6 +1,7 @@
 ---
 name: faster-whisper
 description: "Local speech-to-text using faster-whisper. 4-6x faster than OpenAI Whisper with identical accuracy; GPU acceleration enables ~20x realtime transcription. SRT/VTT/TTML/CSV subtitles, speaker diarization, URL/YouTube input, batch processing with ETA, transcript search, chapter detection, per-file language map."
+description_zh: "Locl 语音转文字 using fster-whisper. 4-6x fster thn OpenAI Whisper 使用 identicl ccurcy; GPU ccelertion enbles ~20x reltime trnscription. SRT/VTT/TTML/CSV subtitles, speker diriztion, URL/YouTube input, 批量处理 使用 ETA, trnscript 搜索, chpter detection, per-file lnguge mp."。
 version: 1.5.1
 author: ThePlasmak
 homepage: https://github.com/ThePlasmak/faster-whisper

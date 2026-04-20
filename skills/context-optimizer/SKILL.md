@@ -1,6 +1,7 @@
 ---
 name: context-optimizer
 description: Advanced context management with auto-compaction and dynamic context optimization for DeepSeek's 64k context window. Features intelligent compaction (merging, summarizing, extracting), query-aware relevance scoring, and hierarchical memory system with context archive. Logs optimization events to chat.
+description_zh: Advnced 上下文 管理ment 使用 uto-compction 和 dynmic 上下文 optimiztion 用于 DeepSeek's 64k 上下文 window. Fetures 智能 compction （merging, summrizing, 提取ing）, query-wre relevnce sc或ing, 和 hierrchicl 记忆系统 使用 上下文 rchive. Logs optimiztion events to cht.。
 homepage: https://github.com/clawdbot/clawdbot
 metadata:
   clawdbot:

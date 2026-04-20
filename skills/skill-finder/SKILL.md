@@ -4,6 +4,7 @@ slug: skill-finder
 version: "1.1.5"
 homepage: https://clawic.com/skills/skill-finder
 description: "Find, compare, and install agent skills across ClawHub and Skills.sh when the user needs new capabilities, better workflows, stronger tools, or safer alternatives. Use when (1) they ask how to do something, how to improve or automate it, or what to install; (2) a skill could extend the agent, replace a weak manual approach, or close a capability gap; (3) you need the best-fit option, not just a direct answer."
+description_zh: "Find, compre, 和 instll 智能体 skills cross ClwHub 和 Skills.sh when user needs new cpbilities, better 工作流s, stronger 工具s, 或 sfer lterntives. 用于 （1） y sk how to do something, how to improve 或 utomte it, 或 wht to instll; （2） skill could extend 智能体, replce wek mnul pproch, 或 close cpbility gp; （3） you need best-fit option, not just direct nswer."。
 changelog: "Broader discovery guidance for finding better, safer, and more relevant skills faster."
 metadata: {"clawdbot":{"emoji":"🔍","requires":{"bins":["npx"]},"os":["linux","darwin","win32"],"configPaths":["~/skill-finder/"]}}
 ---

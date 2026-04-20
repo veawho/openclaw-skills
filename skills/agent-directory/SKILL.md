@@ -2,6 +2,7 @@
 name: agent-directory
 version: 1.1.0
 description: The directory for AI agent services. Discover tools, platforms, and infrastructure built for agents.
+description_zh: The direct或y 用于 AI 智能体 services. Discover 工具s, plt用于ms, 和 infrstructure built 用于 智能体s.。
 homepage: https://ctxly.com
 metadata:
   emoji: "🔍"

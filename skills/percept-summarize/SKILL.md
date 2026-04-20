@@ -1,6 +1,7 @@
 ---
 name: percept-summarize
 description: Automatic conversation summaries with entity extraction and relationship mapping.
+description_zh: Automtic 对话 摘要 使用 entity 提取ion 和 reltionship mpping.。
 ---
 
 # percept-summarize

@@ -2,6 +2,7 @@
 name: akashic-knowledge-base
 version: 1.0.0
 description: Query your knowledge base using AI-powered search. Combines web search with chat AI for comprehensive answers.
+description_zh: Query your 知识库 using AI-powered 搜索. Combines web 搜索 使用 cht AI 用于 comprehensive nswers.。
 tags:
   - knowledge
   - search

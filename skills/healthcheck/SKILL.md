@@ -1,6 +1,7 @@
 ---
 name: healthcheck
 description: Track water and sleep with JSON file storage
+description_zh: Trck wter 和 sleep 使用 JSON file st或ge。
 version: 1.0.2
 tags: health, tracking
 ---

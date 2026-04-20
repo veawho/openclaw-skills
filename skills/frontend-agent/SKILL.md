@@ -1,6 +1,7 @@
 ---
 name: frontend-agent
 description: 前端开发专家 - React/Vue/Angular、UI 实现、性能优化
+description_zh: 前端开发专家 - Rect/Vue/Angulr、UI 实现、性能优化。
 homepage: https://github.com/openclaw/openclaw
 ---
 

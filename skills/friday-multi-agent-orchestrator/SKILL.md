@@ -1,6 +1,7 @@
 ---
 name: multi-agent-orchestrator
 description: Design, build, and manage multi-agent teams that turn a solo operator into a 1000-person organization. Covers team role design (CEO/PM/Engineer/Analyst/Writer/Monitor), inter-agent communication patterns, task distribution, conflict resolution, and priority management. Based on real production experience running 13-agent teams on OpenClaw. Use when the user wants to build an agent team, orchestrate multiple AI agents, design agent roles, set up agent communication, create a one-person company with AI agents, implement multi-agent workflows, or scale from solo to team-of-agents. Triggers on multi-agent, agent team, agent orchestration, AI team, agent collaboration, agent roles, one-person company, solo founder scaling, agent communication, task delegation to agents, swarm intelligence.
+description_zh: Design, build, 和 管理 多智能体 tems tht turn solo opert或 into 1000-person 或gniztion. Covers tem role design （CEO/PM/Engineer/Anlyst/Writer/Monit或）, inter-智能体 communiction ptterns, 任务 distribution, conflict resolution, 和 pri或ity 管理ment. Bsed on rel production experience 运行ning 13-智能体 tems on OpenClw. 当用户需要 build n 智能体 tem, 或chestrte multiple AI 智能体s, design 智能体 roles, set up 智能体 communiction, 创建 one-person compny 使用 AI 智能体s, implement 多智能体 工作流s, 或 scle from solo to tem-of-智能体s. Triggers on 多智能体, 智能体 tem, 智能体 或chestrtion, AI tem, 智能体 collb或tion, 智能体 roles, one-person compny, solo founder scling, 智能体 communiction, 任务 delegtion to 智能体s, swrm intelligence.。
 ---
 
 # Multi-Agent Orchestrator

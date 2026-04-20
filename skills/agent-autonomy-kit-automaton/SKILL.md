@@ -3,6 +3,7 @@ name: agent-autonomy-kit-automaton
 slug: agent-autonomy-kit-automaton
 version: 1.0.2
 description: Stop waiting for prompts. Keep working. - Automaton Edition
+description_zh: Stop witing 用于 prompts. Keep w或king. - Automton Edition。
 author: Automaton
 homepage: https://github.com/openclaw/skills/agent-autonomy-kit
 metadata:

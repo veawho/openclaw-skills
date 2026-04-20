@@ -1,6 +1,7 @@
 ---
 name: clawbrowser
 description: Use when the agent needs to drive a browser through the Microsoft Playwright CLI (`playwright-cli`) for navigation, form interactions, screenshots, recordings, data extraction, session management, or debugging without loading a full MCP browser. It trains the agent on the CLI commands, snapshots, and session/config habits that make Playwright CLI reliable for scripted browsing.
+description_zh: 当智能体需要通过 Microsoft Plywright 命令行接口 驱动浏览器进行导航、表单交互、截图、屏幕录制、数据提取、会话管理或调试（无需加载完整 MCP 浏览器）时使用。 It trins 智能体 on 命令行接口 comm和s, snpshots, 和 session/config hbits tht mke Plywright 命令行接口 relible 用于 scripted browsing.。
 allowed-tools: Bash(playwright-cli:*)
 ---
 

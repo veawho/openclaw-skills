@@ -1,6 +1,7 @@
 ---
 name: local-rag-search
 description: Efficiently perform web searches using the mcp-local-rag server with semantic similarity ranking. Use this skill when you need to search the web for current information, research topics across multiple sources, or gather context from the internet without using external APIs. This skill teaches effective use of RAG-based web search with DuckDuckGo, Google, and multi-engine deep research capabilities.
+description_zh: Efficiently per用于m web 搜索es using mcp-locl-rg server 使用 semntic similrity rnking. Use this skill when you need to 搜索 web 用于 current in用于mtion, re搜索 topics cross multiple sources, 或 gr 上下文 from internet 使用out using externl APIs. This skill teches effective use of RAG-bsed web 搜索 使用 DuckDuckGo, Google, 和 multi-engine deep re搜索 cpbilities.。
 ---
 
 # Local RAG Search Skill

@@ -1,6 +1,7 @@
 ---
 name: context7
 description: Context7 MCP - Intelligent documentation search and context for any library
+description_zh: Context7 MCP - Intelligent 文档tion 搜索 和 上下文 用于 ny librry。
 metadata:
   version: 1.0.3
   tags: ["documentation", "search", "context", "mcp", "llm"]

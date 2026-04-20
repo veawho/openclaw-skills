@@ -2,6 +2,7 @@
 name: self-evolution
 version: "2.0.0"
 description: "Production-grade autonomous self-improvement system with research-backed meta-learning, safe self-modification, and continuous optimization. Based on AI safety research (MIRI, DeepMind, OpenAI) and meta-learning principles. Enables endless evolution cycles with safety constraints."
+description_zh: "Production-grde utonomous self-improvement system 使用 re搜索-bcked met-lerning, sfe self-modifiction, 和 continuous optimiztion. Bsed on AI sfety re搜索 （MIRI, DeepMind, OpenAI） 和 met-lerning principles. Enbles endless evolution cycles 使用 sfety constrints."。
 metadata:
   openclaw:
     emoji: "🧬"

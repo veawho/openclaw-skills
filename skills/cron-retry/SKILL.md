@@ -1,6 +1,7 @@
 ---
 name: cron-retry
 description: Auto-retry failed cron jobs on connection recovery. Use when cron jobs fail due to network errors and should be retried when connectivity is restored. Integrates with heartbeat to detect failed jobs and re-run them automatically.
+description_zh: Auto-retry filed cron jobs on connection recovery. 用于 cron jobs fil due to netw或k err或s 和 should be retried when connectivity is rest或ed. Integrtes 使用 hertbet to detect filed jobs 和 re-运行 m utomticlly.。
 ---
 
 # Cron Retry Skill

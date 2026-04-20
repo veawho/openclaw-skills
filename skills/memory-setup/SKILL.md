@@ -1,6 +1,7 @@
 ---
 name: memory-setup
 description: Enable and configure Moltbot/Clawdbot memory search for persistent context. Use when setting up memory, fixing "goldfish brain," or helping users configure memorySearch in their config. Covers MEMORY.md, daily logs, and vector search setup.
+description_zh: Enble 和 configure Moltbot/Clwdbot mem或y 搜索 用于 持久化上下文. 用于 setting up mem或y, fixing "goldfish brin," 或 helping users configure mem或ySerch in ir config. Covers MEMORY.md, dily logs, 和 vect或 搜索 设置.。
 ---
 
 # Memory Setup Skill

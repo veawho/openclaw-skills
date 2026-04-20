@@ -2,6 +2,7 @@
 name: RAG
 slug: rag
 description: Build, optimize, and debug RAG pipelines with chunking strategies, retrieval tuning, evaluation metrics, and production monitoring.
+description_zh: Build, optimize, 和 debug RAG pipelines 使用 chunking strtegies, retrievl tuning, evlution metrics, 和 production 监控ing.。
 ---
 
 ## Overview

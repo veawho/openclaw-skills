@@ -1,6 +1,7 @@
 ---
 name: Neo4j
 description: Write Cypher queries with proper patterns for merging, traversal, and performance.
+description_zh: Write Cypher queries 使用 proper ptterns 用于 merging, trversl, 和 per用于mnce.。
 metadata: {"clawdbot":{"emoji":"🕸️","requires":{"anyBins":["cypher-shell","neo4j"]},"os":["linux","darwin","win32"]}}
 ---
 

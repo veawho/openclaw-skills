@@ -1,6 +1,7 @@
 ---
 name: lancedb-memory
 description: LanceDB integration for long-term memory management with vector search.
+description_zh: LnceDB 集成 用于 long-term mem或y 管理ment 使用 vect或 搜索.。
 ---
 
 ## Overview

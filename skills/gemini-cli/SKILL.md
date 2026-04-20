@@ -1,6 +1,7 @@
 ---
 name: gemini-cli
 description: Gemini CLI tool for building, debugging & deploying with AI. Use when querying codebases, generating apps from images/PDFs, automating workflows, or performing AI-powered code tasks from the command line.
+description_zh: Gemini 命令行接口 工具 用于 building, 调试 & deploying 使用 AI. 用于 querying codebses, generting pps from 图像s/PDFs, utomting 工作流s, 或 per用于ming AI-powered code 任务s from 命令行.。
 required_binaries:
   - gemini
   - node

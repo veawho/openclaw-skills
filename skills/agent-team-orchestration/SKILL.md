@@ -1,6 +1,7 @@
 ---
 name: agent-team-orchestration
 description: "Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows. Use when: (1) Setting up a team of 2+ agents with different specializations, (2) Defining task routing and lifecycle (inbox → spec → build → review → done), (3) Creating handoff protocols between agents, (4) Establishing review and quality gates, (5) Managing async communication and artifact sharing between agents."
+description_zh: "Orchestrte 多智能体 tems 使用 defined roles, 任务 lifecycles, h和off protocols, 和 review 工作流s. 用于: （1） Setting up tem of 2+ 智能体s 使用 different speciliztions, （2） Defining 任务 routing 和 lifecycle （inbox → spec → build → review → done）, （3） Creting h和off protocols between 智能体s, （4） Estblishing review 和 qulity gtes, （5） Mnging sync communiction 和 rtifct shring between 智能体s."。
 ---
 
 # Agent Team Orchestration

@@ -1,6 +1,7 @@
 ---
 name: memory-core
 description: "OpenClaw 长期记忆核心：基于 LanceDB 的向量化长期记忆存储与检索，内置意图/场景隔离以防记忆污染。"
+description_zh: "OpenClw 长期记忆核心：基于 LnceDB 的向量化长期记忆存储与检索，内置意图/场景隔离以防记忆污染。"。
 ---
 
 # Memory Core（长期记忆核心）

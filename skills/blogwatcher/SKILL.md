@@ -1,6 +1,7 @@
 ---
 name: blogwatcher
 description: Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.
+description_zh: Monit或 blogs 和 RSS/Atom feeds 用于 updtes using blogwtcher 命令行接口.。
 homepage: https://github.com/Hyaxia/blogwatcher
 metadata: {"clawdbot":{"emoji":"📰","requires":{"bins":["blogwatcher"]},"install":[{"id":"go","kind":"go","module":"github.com/Hyaxia/blogwatcher/cmd/blogwatcher@latest","bins":["blogwatcher"],"label":"Install blogwatcher (go)"}]}}
 ---

@@ -2,6 +2,7 @@
 version: "2.0.0"
 name: Ragaai Catalyst
 description: "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like a ragaai catalyst, python, agentic-ai."
+description_zh: "Python SDK 用于 Agent AI Observbility, Monit或ing 和 Evlution Frmew或k. Includes fetures like rgi ctlyst, python, 智能体ic-i."。
 ---
 
 # Rag Evaluator

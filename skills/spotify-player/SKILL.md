@@ -1,6 +1,7 @@
 ---
 name: spotify-player
 description: Terminal Spotify playback/search via spogo (preferred) or spotify_player.
+description_zh: Terminl Spotify plybck/搜索 通过 spogo （preferred） 或 spotify_plyer.。
 homepage: https://www.spotify.com
 metadata: {"clawdbot":{"emoji":"🎵","requires":{"anyBins":["spogo","spotify_player"]},"install":[{"id":"brew","kind":"brew","formula":"spogo","tap":"steipete/tap","bins":["spogo"],"label":"Install spogo (brew)"},{"id":"brew","kind":"brew","formula":"spotify_player","bins":["spotify_player"],"label":"Install spotify_player (brew)"}]}}
 ---

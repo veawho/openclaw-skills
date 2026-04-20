@@ -1,6 +1,7 @@
 ---
 name: Knowledge Base Manager
 description: Build and maintain a structured local knowledge base. Classify incoming content, save it as reusable Markdown, organize inbox items, and keep the knowledge base consistent over time.
+description_zh: Build 和 mintin structured locl 知识库. Clssify incoming content, sve it s reusble Mrkdown, 或gnize inbox items, 和 keep 知识库 consistent over time.。
 version: 0.2.0
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: api-test-automation
 description: API接口测试自动化工具，支持REST/GraphQL，包含接口测试、性能测试、契约测试、Mock服务等功能 | API Test Automation for REST/GraphQL with performance, contract testing and Mock services
+description_zh: API接口测试自动化工具，支持REST/GrphQL，包含接口测试、性能测试、契约测试、Mock服务等功能 | API Test Automtion 用于 REST/GrphQL 使用 per用于mnce, contrct testing 和 Mock services。
 homepage: https://github.com/kaiyuelv/api-test-automation
 category: devops
 tags:

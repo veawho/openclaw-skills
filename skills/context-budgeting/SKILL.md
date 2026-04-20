@@ -1,6 +1,7 @@
 ---
 name: context-budgeting
 description: Manage and optimize OpenClaw context window usage via partitioning, pre-compression checkpointing, and information lifecycle management. Use when the session context is near its limit (>80%), when the agent experiences "memory loss" after compaction, or when aiming to reduce token costs and latency for long-running tasks.
+description_zh: Mnge 和 optimize OpenClw 上下文 window usge 通过 prtitioning, pre-compression checkpointing, 和 in用于mtion lifecycle 管理ment. 用于 session 上下文 is ner its limit （>80%）, when 智能体 experiences "mem或y loss" fter compction, 或 when iming to reduce token costs 和 ltency 用于 long-运行ning 任务s.。
 ---
 
 # Context Budgeting Skill

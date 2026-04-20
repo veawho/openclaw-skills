@@ -1,6 +1,7 @@
 ---
 name: Documentation
 description: Technical documentation patterns, structure, maintenance, and avoiding common documentation failures.
+description_zh: Technicl 文档tion ptterns, structure, mintennce, 和 voiding common 文档tion filures.。
 metadata:
   category: writing
   skills: ["documentation", "technical-writing", "readme", "api-docs"]

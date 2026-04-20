@@ -1,6 +1,7 @@
 ---
 name: refactor-safely
 description: Plans and executes safe refactors with small steps, tests, and rollback strategy. Use when 重构, 技术债, 安全重构, refactoring, or improving code structure without breaking behavior.
+description_zh: Plns 和 执行s sfe refct或s 使用 smll steps, tests, 和 rollbck strtegy. 用于 重构, 技术债, 安全重构, 重构, 或 improving code structure 使用out breking behvi或.。
 ---
 
 # 安全重构（Refactor Safely）

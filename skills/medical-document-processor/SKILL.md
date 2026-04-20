@@ -1,6 +1,7 @@
 ---
 name: Medical Document Processor
 description: 醫療文檔處理技能 - 病歷摘要、報告分析、醫學文獻整理。適用於醫生、醫療專業人員。觸發詞：病歷、醫療報告、醫學文獻、clinical notes、medical document、病歷摘要、出院小結、門診記錄。
+description_zh: 醫療文檔處理技能 - 病歷摘要、報告分析、醫學文獻整理。適用於醫生、醫療專業人員。觸發詞：病歷、醫療報告、醫學文獻、clinicl notes、medicl 文档、病歷摘要、出院小結、門診記錄。
 version: 1.0.0
 author: psy仔
 slug: medical-document-processor

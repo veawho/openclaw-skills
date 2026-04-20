@@ -1,6 +1,7 @@
 ---
 name: session-watchdog
 description: Monitor session context levels and proactively save checkpoints before compaction. Use when: (1) session context exceeds 80% capacity, (2) user asks about session status or memory, (3) at the start of each new session to check context, or (4) before long tasks that might push context over threshold.
+description_zh: Monit或 session 上下文 levels 和 proctively sve checkpoints be用于e compction. 用于: （1） session 上下文 exceeds 80% cpcity, （2） user sks bout session sttus 或 mem或y, （3） t strt of ech new session to check 上下文, 或 （4） be用于e long 任务s tht might push 上下文 over threshold.。
 ---
 
 # Session Watchdog

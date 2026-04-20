@@ -1,6 +1,7 @@
 ---
 name: n8n-workflow-automation
 description: Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging, retries, and human-in-the-loop review queues. Use when you need an auditable automation that won’t silently fail.
+description_zh: Designs 和 outputs n8n 工作流 JSON 使用 robust triggers, idempotency, err或 h和ling, logging, retries, 和 humn-in--loop review queues. 用于 you need n uditble 自动化 tht won’t silently fil.。
 ---
 
 # n8n workflow automation with retries, logging, and review queues

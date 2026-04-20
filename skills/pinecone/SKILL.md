@@ -1,6 +1,7 @@
 ---
 name: pinecone
 description: "Pinecone vector database — manage indexes, upsert vectors, query similarity search, manage namespaces, and track collections via the Pinecone API. Build semantic search, recommendation systems, and RAG pipelines with high-performance vector storage. Built for AI agents — Python stdlib only, zero dependencies. Use for vector search, semantic similarity, RAG applications, recommendation engines, and AI memory systems."
+description_zh: "Pinecone 向量数据库 — 管理 索引, upsert 向量, query 相似性搜索, 管理 命名空间, 和 跟踪 集合 通过 Pinecone API. Build 语义搜索, 推荐 systems, 和 RAG pipelines 使用 高性能 vect或 st或ge. Built 用于 AI 智能体s — 仅使用 Python 标准库, 零依赖. Use 用于 vect或 搜索, semntic similrity, RAG pplictions, 推荐 engines, 和 AI 记忆系统s."。
 homepage: https://www.agxntsix.ai
 license: MIT
 compatibility: Python 3.10+ (stdlib only — no dependencies)

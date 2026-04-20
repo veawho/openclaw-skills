@@ -1,6 +1,7 @@
 ---
 name: gitflow
 description: Automatically monitor CI/CD pipeline status of new push across GitHub and GitLab in one place. Auto DevOps this is the way 🦞!
+description_zh: Automticlly 监控 CI/CD pipeline sttus of new push cross GitHub 和 GitLb in one plce. Auto DevOps this is wy 🦞!。
 ---
 
 # GitFlow — OpenClaw Skill

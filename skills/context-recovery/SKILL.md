@@ -1,6 +1,7 @@
 ---
 name: context-recovery
 description: Automatically recover working context after session compaction or when continuation is implied but context is missing. Works across Discord, Slack, Telegram, Signal, and other supported channels.
+description_zh: Automticlly recover w或king 上下文 fter session compction 或 when continution is implied but 上下文 is missing. W或ks cross Disc或d, Slck, Telegrm, Signl, 和 or supp或ted chnnels.。
 homepage: https://github.com/PSPDFKit-labs/agent-skills
 repository: https://github.com/PSPDFKit-labs/agent-skills
 metadata:

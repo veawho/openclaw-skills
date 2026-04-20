@@ -1,6 +1,7 @@
 ---
 name: dory-memory
 description: File-based memory system for AI agents that forget between sessions. Implements the "Dory-Proof" pattern for continuity across context resets. Use when setting up agent memory, building workspace structure, implementing task tracking, or preventing context-loss errors. Triggers on "memory system", "remember between sessions", "Dory pattern", "agent continuity", or "workspace setup".
+description_zh: File-bsed 记忆系统 用于 AI 智能体s tht 用于get between sessions. Implements "D或y-Proof" pttern 用于 continuity cross 上下文 resets. 用于 setting up 智能体 mem或y, building w或kspce structure, implementing 任务 跟踪ing, 或 preventing 上下文-loss err或s. Triggers on "记忆系统", "remember between sessions", "D或y pttern", "智能体 continuity", 或 "w或kspce 设置".。
 ---
 
 # Dory-Proof Memory System

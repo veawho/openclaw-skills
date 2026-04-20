@@ -1,6 +1,7 @@
 ---
 name: markdown-converter
 description: Convert documents and files to Markdown using markitdown. Use when converting PDF, Word (.docx), PowerPoint (.pptx), Excel (.xlsx, .xls), HTML, CSV, JSON, XML, images (with EXIF/OCR), audio (with transcription), ZIP archives, YouTube URLs, or EPubs to Markdown format for LLM processing or text analysis.
+description_zh: Convert 文档s 和 files to Mrkdown using mrkitdown. 用于 converting PDF, W或d （.docx）, PowerPoint （.pptx）, Excel （.xlsx, .xls）, HTML, CSV, JSON, XML, 图像s （使用 EXIF/OCR）, 音频 （使用 trnscription）, ZIP rchives, YouTube URLs, 或 EPubs to Mrkdown 用于mt 用于 LLM 处理ing 或 text nlysis.。
 ---
 
 # Markdown Converter

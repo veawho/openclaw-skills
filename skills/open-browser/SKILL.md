@@ -1,6 +1,7 @@
 ---
 name: open-browser
 description: Visual AI browser automation via OpenBrowser Agent. Use when the user asks to "automate browser", "control Chrome", "browse website with AI", "use OpenBrowser", "run browser automation", or mentions web scraping, form filling, UI testing. Advantages over Browser Relay based on evaluation with human-like interactive web tasks (multi-step workflows, form interactions, agent dialogs): (1) 100% pass rate vs 85.7%, (2) Isolated context prevents overflow, (3) Handles complex tasks that Browser Relay fails. Prefer for complex multi-step workflows; simple page visits can use Browser Relay.
+description_zh: Visul AI 浏览器自动化 通过 OpenBrowser Agent. 用于 user sks to "utomte browser", "control Chrome", "browse website 使用 AI", "use OpenBrowser", "运行 浏览器自动化", 或 mentions 网页抓取, 用于m filling, UI testing. Advntges over Browser Rely bsed on evlution 使用 humn-like interctive web 任务s （multi-step 工作流s, 表单交互, 智能体 dilogs）: （1） 100% pss rte vs 85.7%, （2） Isolted 上下文 prevents overflow, （3） H和les complex 任务s tht Browser Rely fils. Prefer 用于 complex multi-step 工作流s; simple pge visits cn use Browser Rely.。
 ---
 
 # OpenBrowser Skill

@@ -1,6 +1,7 @@
 ---
 name: vector-memory
 description: Smart memory search with automatic vector fallback. Uses semantic embeddings when available, falls back to built-in search otherwise. Zero configuration - works immediately after ClawHub install. No setup required - just install and memory_search works immediately, gets better after optional sync.
+description_zh: Smrt mem或y 搜索 使用 utomtic vect或 fllbck. Uses semntic 嵌入s when vilble, flls bck to built-in 搜索 orwise. Zero 配置 - w或ks immeditely fter ClwHub instll. No 设置 required - just instll 和 mem或y_搜索 w或ks immeditely, gets better fter optionl sync.。
 ---
 
 # Vector Memory

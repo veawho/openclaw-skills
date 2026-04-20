@@ -1,6 +1,7 @@
 ---
 name: context-aware-delegation
 description: Give isolated sessions (cron jobs, sub-agents, event handlers) full conversation context from your main session using sessions_history. Run cheap background tasks (Haiku) with expensive context (Sonnet-level awareness) — best of both worlds.
+description_zh: Give isolted sessions （cron jobs, 子智能体s, event h和lers） full 对话 上下文 from your min session using sessions_hist或y. Run chep bckground 任务s （Hiku） 使用 expensive 上下文 （Sonnet-level wreness） — best of both w或lds.。
 homepage: https://gitlab.com/rgba_research/context-aware-delegation
 author: RGBA Research
 metadata:

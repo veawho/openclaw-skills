@@ -1,6 +1,7 @@
 ---
 name: "agent-designer"
 description: "Agent Designer - Multi-Agent System Architecture"
+description_zh: "Agent Designer - Multi-Agent System Architecture"。
 ---
 
 # Agent Designer - Multi-Agent System Architecture

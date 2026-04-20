@@ -1,6 +1,7 @@
 ---
 name: OAuth
 description: Implement OAuth 2.0 and OpenID Connect flows securely.
+description_zh: Implement OAuth 2.0 和 OpenID Connect flows securely.。
 metadata: {"clawdbot":{"emoji":"🔑","os":["linux","darwin","win32"]}}
 ---
 

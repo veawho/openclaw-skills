@@ -2,6 +2,7 @@
 name: auto-context
 model: fast
 description: Automatically read relevant context before major actions. Loads TODO.md, roadmap.md, handoffs, task plans, and other project context files so the AI operates with full situational awareness. Use when starting a task, implementing a feature, refactoring, debugging, planning, or resuming a session.
+description_zh: Automticlly red relevnt 上下文 be用于e mj或 ctions. Lods TODO.md, rodmp.md, h和offs, 任务 plns, 和 or project 上下文 files so AI opertes 使用 full situtionl wreness. 用于 strting 任务, implementing feture, 重构, 调试, plnning, 或 resuming session.。
 ---
 
 # Auto-Context — Situational Awareness Protocol (Meta-Skill)

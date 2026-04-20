@@ -1,6 +1,7 @@
 ---
 name: less-token
 description: "Save 40-65% tokens on summarization tasks. Compress verbose summary prompts into structured one-line instructions. Text-to-text translator only — no CLI, no API key, no install, no external dependencies. Works on ChatGPT, Claude, Gemini, DeepSeek, Kimi. Instruction-only, zero dependencies."
+description_zh: "Sve 40-65% tokens on 摘要 任务s. Compress verbose summry prompts into structured one-line instructions. Text-to-text trnslt或 only — no 命令行接口, no API key, no instll, no externl dependencies. W或ks on ChtGPT, Clude, Gemini, DeepSeek, Kimi. Instruction-only, 零依赖."。
 version: 1.0.4
 author: ilang-ai
 homepage: https://ilang.ai

@@ -1,6 +1,7 @@
 ---
 name: vue-expert
 description: Use when building Vue 3 applications with Composition API, Nuxt 3, or Quasar. Invoke for Pinia, TypeScript, PWA, Capacitor mobile apps, Vite configuration.
+description_zh: 用于 building Vue 3 pplictions 使用 Composition API, Nuxt 3, 或 Qusr. Invoke 用于 Pini, TypeScript, PWA, Cpcit或 mobile pps, Vite 配置.。
 triggers:
   - Vue 3
   - Composition API

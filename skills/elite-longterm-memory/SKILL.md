@@ -2,6 +2,7 @@
 name: elite-longterm-memory
 version: 1.2.3
 description: "Ultimate AI agent memory system for Cursor, Claude, ChatGPT & Copilot. WAL protocol + vector search + git-notes + cloud backup. Never lose context again. Vibe-coding ready."
+description_zh: "Ultimte AI 智能体 记忆系统 用于 Curs或, Clude, ChtGPT & Copilot. WAL protocol + vect或 搜索 + git-notes + cloud bckup. Never lose 上下文 gin. Vibe-coding redy."。
 author: NextFrontierBuilds
 keywords: [memory, ai-agent, ai-coding, long-term-memory, vector-search, lancedb, git-notes, wal, persistent-context, claude, claude-code, gpt, chatgpt, cursor, copilot, github-copilot, openclaw, moltbot, vibe-coding, agentic, ai-tools, developer-tools, devtools, typescript, llm, automation]
 metadata:

@@ -1,6 +1,7 @@
 ---
 name: agentic-workflow-automation
 description: Generate reusable multi-step agent workflow blueprints. Use for trigger/action orchestration, deterministic workflow definitions, and automation handoff artifacts.
+description_zh: Generte reusble multi-step 智能体 工作流 blueprints. Use 用于 trigger/ction 或chestrtion, deterministic 工作流 definitions, 和 自动化 h和off rtifcts.。
 ---
 
 # Agentic Workflow Automation

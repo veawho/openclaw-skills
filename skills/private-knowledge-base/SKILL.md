@@ -1,6 +1,7 @@
 ---
 name: private-knowledge-base
 description: Personal knowledge base for PDFs, papers, and documents with cross-document Q&A and concept retrieval. Use when: (1) User asks questions about stored documents ("which doc mentions X?"), (2) Need to summarize concepts across multiple PDFs, (3) User wants to ingest new PDFs/papers into knowledge base, (4) Cross-document linking and association is needed, (5) Fast semantic search over personal document collection.
+description_zh: Personl 知识库 用于 PDFs, ppers, 和 文档s 使用 cross-文档 问答 和 concept retrievl. 用于: （1） User sks questions bout st或ed 文档s （"which doc mentions X?"）, （2） Need to summrize concepts cross multiple PDFs, （3） User wnts to ingest new PDFs/ppers into 知识库, （4） Cross-文档 linking 和 ssocition is needed, （5） Fst 语义搜索 over personl 文档 collection.。
 version: 1.0.0
 ---
 

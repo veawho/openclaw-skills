@@ -1,6 +1,7 @@
 ---
 name: Remember
 description: Curate persistent memory that actually helps. Filter what matters, organize by function, decay what doesn't.
+description_zh: Curte 持久化 mem或y tht ctully helps. Filter wht mtters, 或gnize by function, decy wht doesn't.。
 version: 1.1.0
 ---
 

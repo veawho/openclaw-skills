@@ -1,6 +1,7 @@
 ---
 name: mcporter
 description: Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.
+description_zh: Use mcp或ter 命令行接口 to list, configure, uth, 和 cll MCP servers/工具s directly （HTTP 或 stdio）, including d-hoc servers, config edits, 和 命令行接口/type genertion.。
 homepage: http://mcporter.dev
 metadata: {"clawdbot":{"emoji":"📦","requires":{"bins":["mcporter"]},"install":[{"id":"node","kind":"node","package":"mcporter","bins":["mcporter"],"label":"Install mcporter (node)"}]}}
 ---

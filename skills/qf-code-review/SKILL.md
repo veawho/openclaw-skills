@@ -1,6 +1,7 @@
 ---
 name: qf-code-review
 description: Systematic code review framework for security, performance, and best practices.
+description_zh: Systemtic 代码审查 frmew或k 用于 security, per用于mnce, 和 best prctices.。
 ---
 
 # AI Code Review

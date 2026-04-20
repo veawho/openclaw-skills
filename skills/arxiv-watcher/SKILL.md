@@ -1,6 +1,7 @@
 ---
 name: arxiv-watcher
 description: Search and summarize papers from ArXiv. Use when the user asks for the latest research, specific topics on ArXiv, or a daily summary of AI papers.
+description_zh: Serch 和 summrize ppers from ArXiv. 用于 user sks 用于 ltest re搜索, specific topics on ArXiv, 或 dily summry of AI ppers.。
 ---
 
 # ArXiv Watcher

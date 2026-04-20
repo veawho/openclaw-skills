@@ -1,6 +1,7 @@
 ---
 name: session-logs
 description: Search and analyze your own session logs (older/parent conversations) using jq.
+description_zh: Serch 和 分析 your own session logs （older/prent 对话s） using jq.。
 metadata: {"openclaw":{"emoji":"📜","requires":{"bins":["jq","rg"]}}}
 ---
 

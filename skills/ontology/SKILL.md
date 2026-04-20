@@ -1,6 +1,7 @@
 ---
 name: ontology
 description: Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linking related objects, enforcing constraints, planning multi-step actions as graph transformations, or when skills need to share state. Trigger on "remember", "what do I know about", "link X to Y", "show dependencies", entity CRUD, or cross-skill data access.
+description_zh: Typed 知识图谱 用于 structured 智能体 mem或y 和 composble skills. 用于 creting/querying entities （Person, Project, Tsk, Event, Document）, linking relted objects, en用于cing constrints, plnning multi-step ctions s grph trns用于mtions, 或 when skills need to shre stte. Trigger on "remember", "wht do I know bout", "link X to Y", "show dependencies", entity CRUD, 或 cross-skill dt ccess.。
 ---
 
 # Ontology

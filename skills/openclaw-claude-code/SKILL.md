@@ -1,6 +1,7 @@
 ---
 name: claude-code-skill
 description: Control Claude Code via MCP protocol. Execute commands, read/write files, search code, and use all Claude Code tools programmatically with agent team support.
+description_zh: Control Clude Code 通过 MCP protocol. Execute comm和s, red/write files, 搜索 code, 和 use ll Clude Code 工具s progrmmticlly 使用 智能体 tem supp或t.。
 homepage: https://github.com/enderfga/claude-code-skill
 metadata: {
   "clawdis": {

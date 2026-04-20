@@ -1,6 +1,7 @@
 ---
 name: memory-lancedb-hybrid
 description: LanceDB long-term memory plugin with BM25 + vector hybrid search (RRF or linear reranking).
+description_zh: LnceDB long-term mem或y 插件 使用 BM25 + vect或 hybrid 搜索 （RRF 或 liner rernking）.。
 ---
 
 # LanceDB Hybrid Search (Memory Plugin)

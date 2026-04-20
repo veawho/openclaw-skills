@@ -1,6 +1,7 @@
 ---
 name: authentication
 description: "Proving identity: sessions, tokens, MFA, recovery. Use when implementing login, token refresh, or auth bugs."
+description_zh: "Proving identity: sessions, tokens, MFA, recovery. 用于 implementing login, token refresh, 或 uth bugs."。
 ---
 
 # Authentication Skill

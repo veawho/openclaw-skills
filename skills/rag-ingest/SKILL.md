@@ -1,6 +1,7 @@
 ---
 name: rag-ingest
 description: 将 Agent 已解读好的正文写入 Qdrant（kb_main）。仅做 chunk、embedding 和向量写入，不负责抓取与精炼。
+description_zh: 将 Agent 已解读好的正文写入 Qdrnt（kb_min）。仅做 chunk、嵌入 和向量写入，不负责抓取与精炼。
 metadata: { "openclaw": { "emoji": "🧠", "requires": { "bins": ["node"], "env": ["QDRANT_URL", "EMBED_API_KEY"] }, "primaryEnv": "QDRANT_URL" } }
 ---
 

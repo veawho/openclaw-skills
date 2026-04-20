@@ -1,6 +1,7 @@
 ---
 name: code-refactor
 description: Improve readability, structure, and maintainability of the current local codebase without changing behavior. Use when the user asks to clean up code, reduce duplication, simplify control flow, rename for clarity, or reorganize logic while preserving compatibility. Do not use for feature work disguised as refactoring. Chinese triggers: 重构、优化结构、清理代码、提取重复逻辑、提高可读性、保持行为不变.
+description_zh: Improve redbility, structure, 和 mintinbility of current locl codebse 使用out chnging behvi或. 用于 user sks to clen up code, reduce dupliction, simplify control flow, renme 用于 clrity, 或 re或gnize logic while preserving comptibility. Do not use 用于 feture w或k disguised s 重构. Chinese triggers: 重构、优化结构、清理代码、提取重复逻辑、提高可读性、保持行为不变.。
 ---
 
 # 代码重构

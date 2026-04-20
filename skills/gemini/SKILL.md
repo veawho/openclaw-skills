@@ -1,6 +1,7 @@
 ---
 name: gemini
 description: Gemini CLI for one-shot Q&A, summaries, and generation.
+description_zh: Gemini 命令行接口 用于 单次 问答, 摘要, 和 genertion.。
 homepage: https://ai.google.dev/
 metadata: {"clawdbot":{"emoji":"♊️","requires":{"bins":["gemini"]},"install":[{"id":"brew","kind":"brew","formula":"gemini-cli","bins":["gemini"],"label":"Install Gemini CLI (brew)"}]}}
 ---

@@ -1,6 +1,7 @@
 ---
 name: session-memory
 description: Persistent memory toolkit for AI agents. Save context, recall with relevance scoring, consolidate insights, track decisions across sessions. Features importance levels, multi-keyword search, session context loader, export/import, memory stats. Pure bash+node, no dependencies. v2.0.0
+description_zh: Persistent mem或y 工具kit 用于 AI 智能体s. Sve 上下文, recll 使用 relevnce sc或ing, consolidte insights, 跟踪 decisions cross sessions. Fetures imp或tnce levels, multi-keyw或d 搜索, session 上下文 loder, exp或t/imp或t, mem或y stts. Pure bsh+node, no dependencies. v2.0.0。
 homepage: https://github.com/voidborne-d/session-memory-skill
 metadata: {"openclaw":{"emoji":"🧠","requires":{"bins":["node"]}}}
 ---

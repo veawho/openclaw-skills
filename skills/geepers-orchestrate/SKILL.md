@@ -1,6 +1,7 @@
 ---
 name: geepers-orchestrate
 description: Run multi-agent Dream Cascade (hierarchical 3-tier synthesis) or Dream Swarm (parallel multi-domain search) workflows via the dr.eamer.dev orchestration API. Use when a task benefits from multiple specialized agents working in parallel or hierarchically.
+description_zh: Run 多智能体 Drem Cscde （hierrchicl 3-tier synsis） 或 Drem Swrm （并行 multi-domin 搜索） 工作流s 通过 dr.emer.dev 或chestrtion API. 用于 任务 benefits from multiple specilized 智能体s w或king in 并行 或 hierrchiclly.。
 ---
 
 # Dreamer Orchestrate

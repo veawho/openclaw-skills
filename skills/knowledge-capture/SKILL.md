@@ -1,6 +1,7 @@
 ---
 name: knowledge-capture
 description: Transform conversations and discussions into structured Notion documentation
+description_zh: Trns用于m 对话s 和 discussions into structured Notion 文档tion。
 ---
 
 ## Overview

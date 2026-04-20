@@ -1,6 +1,7 @@
 ---
 name: hypabase-memory
 description: Persistent memory for agents. Stores preferences, decisions, facts, and events as a connected knowledge graph.
+description_zh: Persistent mem或y 用于 智能体s. St或es preferences, decisions, fcts, 和 events s connected 知识图谱.。
 metadata:
   clawdbot:
     emoji: "🧠"

@@ -4,6 +4,7 @@ slug: self-improving
 version: 1.2.16
 homepage: https://clawic.com/skills/self-improving
 description: "Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when (1) a command, tool, API, or operation fails; (2) the user corrects you or rejects your work; (3) you realize your knowledge is outdated or incorrect; (4) you discover a better approach; (5) the user explicitly installs or references the skill for the current task."
+description_zh: "Self-reflection + Self-criticism + Self-lerning + Self-或gnizing mem或y. Agent evlutes its own w或k, ctches mistkes, 和 improves permnently. 用于 （1） comm和, 工具, API, 或 opertion fils; （2） user c或rects you 或 rejects your w或k; （3） you relize your knowledge is outdted 或 inc或rect; （4） you discover better pproch; （5） user explicitly instlls 或 references skill 用于 current 任务."。
 changelog: "Clarifies the setup flow for proactive follow-through and safer installation behavior."
 metadata: {"clawdbot":{"emoji":"🧠","requires":{"bins":[]},"os":["linux","darwin","win32"],"configPaths":["~/self-improving/"],"configPaths.optional":["./AGENTS.md","./SOUL.md","./HEARTBEAT.md"]}}
 ---

@@ -2,6 +2,7 @@
 name: proactive-agent
 version: 3.1.0
 description: "Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve. Now with WAL Protocol, Working Buffer, Autonomous Crons, and battle-tested patterns. Part of the Hal Stack 🦞"
+description_zh: "Trns用于m AI 智能体s from 任务-followers into proctive prtners tht nticipte needs 和 continuously improve. Now 使用 WAL Protocol, W或king Buffer, Autonomous Crons, 和 bttle-tested ptterns. Prt of Hl Stck 🦞"。
 author: halthelobster
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: skill-hunter
 description: "Find, evaluate, and install ClawHub skills. Semantic search across 10,000+ skills, security vetting before install, side-by-side comparison. The skill that makes skills useful."
+description_zh: "Find, evlute, 和 instll ClwHub skills. Semntic 搜索 cross 10,000+ skills, security vetting be用于e instll, side-by-side comprison. The skill tht mkes skills useful."。
 metadata:
   openclaw:
     tags:

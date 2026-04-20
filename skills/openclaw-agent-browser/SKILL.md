@@ -1,6 +1,7 @@
 ---
 name: agent-browser
 description: Headless browser automation CLI for AI agents. Use when interacting with websites — navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, scraping, testing web apps, downloading files, or automating any browser task. Triggers on requests to "open a website", "fill out a form", "click a button", "take a screenshot", "scrape data", "test this web app", "login to a site", "monitor a page", or any task requiring programmatic web interaction.
+description_zh: Hedless 浏览器自动化 命令行接口 用于 AI 智能体s. 用于 intercting 使用 websites — nvigting pges, filling 用于ms, clicking buttons, tking 截图s, 提取ing dt, scrping, testing web pps, downloding files, 或 utomting ny browser 任务. Triggers on requests to "open website", "fill out 用于m", "click button", "tke 截图", "scrpe dt", "test this web pp", "login to site", "监控 pge", 或 ny 任务 requiring progrmmtic web interction.。
 ---
 
 # Browser Automation with agent-browser

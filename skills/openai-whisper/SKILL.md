@@ -1,6 +1,7 @@
 ---
 name: openai-whisper
 description: Local speech-to-text with the Whisper CLI (no API key).
+description_zh: Locl 语音转文字 使用 Whisper 命令行接口 （no API key）.。
 homepage: https://openai.com/research/whisper
 metadata: {"clawdbot":{"emoji":"🎙️","requires":{"bins":["whisper"]},"install":[{"id":"brew","kind":"brew","formula":"openai-whisper","bins":["whisper"],"label":"Install OpenAI Whisper (brew)"}]}}
 ---

@@ -1,6 +1,7 @@
 ---
 name: multi-agent-coordinator
 description: Coordinate multiple AI agents to complete complex tasks together.
+description_zh: Co或dinte multiple AI 智能体s to complete complex 任务s toger.。
 ---
 
 # Multi-Agent Coordinator Skill

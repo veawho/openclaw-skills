@@ -1,6 +1,7 @@
 ---
 name: bear-notes
 description: Create, search, and manage Bear notes via grizzly CLI.
+description_zh: Crete, 搜索, 和 管理 Ber notes 通过 grizzly 命令行接口.。
 homepage: https://bear.app
 metadata: {"clawdbot":{"emoji":"🐻","os":["darwin"],"requires":{"bins":["grizzly"]},"install":[{"id":"go","kind":"go","module":"github.com/tylerwince/grizzly/cmd/grizzly@latest","bins":["grizzly"],"label":"Install grizzly (go)"}]}}
 ---

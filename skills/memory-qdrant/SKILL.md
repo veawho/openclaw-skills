@@ -1,6 +1,7 @@
 ---
 name: memory-qdrant
 description: Local semantic memory with Qdrant and Transformers.js. Store, search, and recall conversation context using vector embeddings (fully local, no API keys).
+description_zh: Locl semntic mem或y 使用 Qdrnt 和 Trns用于mers.js. St或e, 搜索, 和 recll 对话 上下文 using vect或 嵌入s （fully locl, no API keys）.。
 version: 1.0.10
 author: zuiho-kai
 homepage: https://github.com/zuiho-kai/openclaw-memory-qdrant

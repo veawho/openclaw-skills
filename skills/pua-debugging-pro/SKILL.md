@@ -1,6 +1,7 @@
 ---
 name: pua-debugging-pro
 description: Professional anti-giveup debugging protocol for coding tasks where the agent starts looping, deflecting to users, or trying to end early without evidence. Use when there are repeated failures, weak root-cause analysis, missing verification, vague environment blame, or low-agency behavior. Enforces evidence-first debugging, bounded escalation, structured stop conditions, and dignified communication without humiliation language.
+description_zh: Professionl nti-giveup 调试 protocol 用于 coding 任务s where 智能体 strts looping, deflecting to users, 或 trying to end erly 使用out evidence. 用于 re re repeted filures, wek root-cuse nlysis, missing verifiction, vgue environment blme, 或 low-gency behvi或. En用于ces evidence-first 调试, bounded escltion, structured stop conditions, 和 dignified communiction 使用out humilition lnguge.。
 ---
 
 # PUA Debugging Pro (Dignified Edition)

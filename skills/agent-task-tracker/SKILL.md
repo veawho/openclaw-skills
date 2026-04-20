@@ -1,6 +1,7 @@
 ---
 name: task-tracker
 description: Proactive task state management. Use on EVERY task start, progress update, completion, or failure. Tracks what was requested, what's running (background processes, SSH sessions), what's done, and what's next. Survives session resets. Triggers automatically — not user-invoked.
+description_zh: Proctive 任务 stte 管理ment. Use on EVERY 任务 strt, progress updte, completion, 或 filure. Trcks wht ws requested, wht's 运行ning （bckground 处理es, SSH sessions）, wht's done, 和 wht's next. Survives session resets. Triggers utomticlly — not user-invoked.。
 ---
 
 # Task Tracker

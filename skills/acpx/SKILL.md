@@ -1,6 +1,7 @@
 ---
 name: acpx
 description: Use acpx as a headless ACP CLI for agent-to-agent communication, including prompt/exec/sessions workflows, session scoping, queueing, permissions, and output formats.
+description_zh: Use cpx s hedless ACP 命令行接口 用于 智能体-to-智能体 communiction, including prompt/exec/sessions 工作流s, session scoping, queueing, permissions, 和 output 用于mts.。
 ---
 
 # acpx

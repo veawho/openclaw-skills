@@ -1,6 +1,7 @@
 ---
 name: sulada-knowledge-base
 description: Personal knowledge base for collecting, organizing and retrieving information.
+description_zh: Personl 知识库 用于 collecting, 或gnizing 和 retrieving in用于mtion.。
 ---
 
 # Personal Knowledge Base - 个人知识库
