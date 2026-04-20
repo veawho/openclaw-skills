@@ -1,0 +1,529 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-orchestrate": {
+      "version": "1.0.0",
+      "installedAt": 1776621784515
+    },
+    "agent-team-orchestration": {
+      "version": "1.0.0",
+      "installedAt": 1776621796588
+    },
+    "friday-multi-agent-orchestrator": {
+      "version": "1.0.0",
+      "installedAt": 1776621906160
+    },
+    "memory-setup": {
+      "version": "1.0.0",
+      "installedAt": 1776621963150
+    },
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1776622024098
+    },
+    "hypabase-memory": {
+      "version": "0.2.4",
+      "installedAt": 1776622084972
+    },
+    "pinecone": {
+      "version": "1.0.0",
+      "installedAt": 1776622203120
+    },
+    "rag-ingest": {
+      "version": "1.0.0",
+      "installedAt": 1776622263212
+    },
+    "peekaboo": {
+      "version": "1.0.0",
+      "installedAt": 1776622564957
+    },
+    "agent-browser-clawdbot": {
+      "version": "0.1.0",
+      "installedAt": 1776622623460
+    },
+    "cron-retry": {
+      "version": "1.0.0",
+      "installedAt": 1776622742985
+    },
+    "security-audit-toolkit": {
+      "version": "1.0.0",
+      "installedAt": 1776622747113
+    },
+    "image": {
+      "version": "1.0.4",
+      "installedAt": 1776622804300
+    },
+    "skill-finder": {
+      "version": "1.1.5",
+      "installedAt": 1776622865066
+    },
+    "mlx-whisper": {
+      "version": "1.0.0",
+      "installedAt": 1776622982512
+    },
+    "clawbrowser": {
+      "version": "0.1.1",
+      "installedAt": 1776623046350
+    },
+    "openclaw-agent-browser": {
+      "version": "1.0.0",
+      "installedAt": 1776623103374
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1776623166877
+    },
+    "agent-designer": {
+      "version": "2.1.1",
+      "installedAt": 1776623284332
+    },
+    "agent-directory": {
+      "version": "1.2.0",
+      "installedAt": 1776623344748
+    },
+    "agent-task-tracker": {
+      "version": "1.1.0",
+      "installedAt": 1776623357722
+    },
+    "akashic-knowledge-base": {
+      "version": "1.0.0",
+      "installedAt": 1776623464110
+    },
+    "authentication": {
+      "version": "1.0.0",
+      "installedAt": 1776623523943
+    },
+    "auto-context": {
+      "version": "1.0.0",
+      "installedAt": 1776623583900
+    },
+    "context-aware-delegation": {
+      "version": "1.0.2",
+      "installedAt": 1776623645356
+    },
+    "context-budgeting": {
+      "version": "1.0.0",
+      "installedAt": 1776706551119
+    },
+    "context-driven-development": {
+      "version": "1.0.0",
+      "installedAt": 1776662356964
+    },
+    "context-optimizer": {
+      "version": "1.0.0",
+      "installedAt": 1776661983999
+    },
+    "context-scope-tags": {
+      "version": "0.2.0",
+      "installedAt": 1776706582763
+    },
+    "embeddings": {
+      "version": "1.0.0",
+      "installedAt": 1776623944711
+    },
+    "frontend-agent": {
+      "version": "1.0.0",
+      "installedAt": 1776624006066
+    },
+    "geepers-orchestrate": {
+      "version": "1.0.0",
+      "installedAt": 1776624062992
+    },
+    "memory-core": {
+      "version": "0.1.3",
+      "installedAt": 1776624130847
+    },
+    "memory-lancedb-hybrid": {
+      "version": "1.2.1",
+      "installedAt": 1776624184200
+    },
+    "memory-qdrant": {
+      "version": "1.0.10",
+      "installedAt": 1776624246596
+    },
+    "memory-tiering": {
+      "version": "1.0.0",
+      "installedAt": 1776624303367
+    },
+    "multi-agent-cn": {
+      "version": "1.2.0",
+      "installedAt": 1776624309122
+    },
+    "mupeng-rag-engineer": {
+      "version": "1.0.0",
+      "installedAt": 1776624364221
+    },
+    "nova-three-level-memory": {
+      "version": "1.0.1",
+      "installedAt": 1776624423080
+    },
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1776624485675
+    },
+    "productivity-improving": {
+      "version": "1.0.5",
+      "installedAt": 1776624492850
+    },
+    "pua-debugging-pro": {
+      "version": "1.0.0",
+      "installedAt": 1776624543154
+    },
+    "rag": {
+      "version": "1.0.0",
+      "installedAt": 1776624549671
+    },
+    "rag-evaluator": {
+      "version": "2.0.0",
+      "installedAt": 1776624604769
+    },
+    "self-evolution": {
+      "version": "2.0.0",
+      "installedAt": 1776624663806
+    },
+    "self-evolve": {
+      "version": "1.0.0",
+      "installedAt": 1776624725519
+    },
+    "context7": {
+      "version": "1.0.3",
+      "installedAt": 1776625025001
+    },
+    "mh-summarize": {
+      "version": "1.0.0",
+      "installedAt": 1776625084880
+    },
+    "personal-productivity": {
+      "version": "1.0.0",
+      "installedAt": 1776625262680
+    },
+    "markdown-converter": {
+      "version": "1.0.0",
+      "installedAt": 1776625325888
+    },
+    "nano-pdf": {
+      "version": "1.0.0",
+      "installedAt": 1776625334731
+    },
+    "tencent-docs": {
+      "version": "1.0.27",
+      "installedAt": 1776625390298
+    },
+    "sql": {
+      "version": "1.0.1",
+      "installedAt": 1776625397898
+    },
+    "arxiv-watcher": {
+      "version": "1.0.0",
+      "installedAt": 1776625562253
+    },
+    "agentic-workflow-automation-v2": {
+      "version": "2.0.0",
+      "installedAt": 1776625625054
+    },
+    "automation-workflow-builder": {
+      "version": "1.0.0",
+      "installedAt": 1776625631735
+    },
+    "n8n-workflow-automation": {
+      "version": "1.0.0",
+      "installedAt": 1776625683051
+    },
+    "mcporter": {
+      "version": "1.0.0",
+      "installedAt": 1776625742903
+    },
+    "nano-banana-pro": {
+      "version": "1.0.1",
+      "installedAt": 1776625751954
+    },
+    "video-frames": {
+      "version": "1.0.0",
+      "installedAt": 1776625800929
+    },
+    "blogwatcher": {
+      "version": "1.0.0",
+      "installedAt": 1776625861679
+    },
+    "gemini": {
+      "version": "1.0.0",
+      "installedAt": 1776625867496
+    },
+    "gitflow": {
+      "version": "1.0.4",
+      "installedAt": 1776625925209
+    },
+    "openclaw-claude-code": {
+      "version": "0.3.0",
+      "installedAt": 1776625988560
+    },
+    "spotify-player": {
+      "version": "1.0.0",
+      "installedAt": 1776626041371
+    },
+    "acpx": {
+      "version": "1.0.0",
+      "installedAt": 1776626046629
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1776626164841
+    },
+    "medical-document-processor": {
+      "version": "1.0.0",
+      "installedAt": 1776626346998
+    },
+    "api-test-automation": {
+      "version": "1.0.0",
+      "installedAt": 1776626403322
+    },
+    "explain-code": {
+      "version": "1.0.0",
+      "installedAt": 1776626465806
+    },
+    "qf-code-review": {
+      "version": "1.0.0",
+      "installedAt": 1776626523296
+    },
+    "ai-writing-agent": {
+      "version": "1.1.0",
+      "installedAt": 1776626583501
+    },
+    "lancedb-memory": {
+      "version": "1.0.0",
+      "installedAt": 1776626642761
+    },
+    "multi-agent-coordinator": {
+      "version": "1.0.0",
+      "installedAt": 1776626703113
+    },
+    "multi-agent-roles": {
+      "version": "1.0.0",
+      "installedAt": 1776626763463
+    },
+    "private-knowledge-base": {
+      "version": "1.0.0",
+      "installedAt": 1776626769771
+    },
+    "percept-summarize": {
+      "version": "1.0.0",
+      "installedAt": 1776626822472
+    },
+    "code-refactor": {
+      "version": "0.1.0",
+      "installedAt": 1776626828454
+    },
+    "refactor-safely": {
+      "version": "1.0.0",
+      "installedAt": 1776626883138
+    },
+    "openai-whisper": {
+      "version": "1.0.0",
+      "installedAt": 1776626942762
+    },
+    "sag": {
+      "version": "1.0.0",
+      "installedAt": 1776626948061
+    },
+    "sherpa-onnx-tts": {
+      "version": "0.1.0",
+      "installedAt": 1776627004359
+    },
+    "audio-video-to-text": {
+      "version": "1.0.0",
+      "installedAt": 1776627061923
+    },
+    "faster-whisper": {
+      "version": "1.5.1",
+      "installedAt": 1776627067707
+    },
+    "openai-whisper-api": {
+      "version": "1.0.0",
+      "installedAt": 1776627123526
+    },
+    "apple-notes": {
+      "version": "1.0.0",
+      "installedAt": 1776627129649
+    },
+    "apple-reminders": {
+      "version": "1.0.0",
+      "installedAt": 1776627184237
+    },
+    "bear-notes": {
+      "version": "1.0.0",
+      "installedAt": 1776627242355
+    },
+    "bluebubbles": {
+      "version": "1.0.0",
+      "installedAt": 1776627248677
+    },
+    "imsg": {
+      "version": "1.0.0",
+      "installedAt": 1776627302215
+    },
+    "things-mac": {
+      "version": "1.0.0",
+      "installedAt": 1776627307536
+    },
+    "playwright-cli-openclaw": {
+      "version": "1.0.0",
+      "installedAt": 1776627362747
+    },
+    "playwright-scraper-skill": {
+      "version": "1.2.0",
+      "installedAt": 1776627422510
+    },
+    "vue-expert": {
+      "version": "0.1.0",
+      "installedAt": 1776627483498
+    },
+    "dory-memory": {
+      "version": "1.0.0",
+      "installedAt": 1776655335690
+    },
+    "vector-memory": {
+      "version": "1.0.0",
+      "installedAt": 1776655443346
+    },
+    "knowledge-graph-skill": {
+      "version": "1.1.1",
+      "installedAt": 1776655625666
+    },
+    "session-logs": {
+      "version": "1.0.0",
+      "installedAt": 1776655742468
+    },
+    "neo4j": {
+      "version": "1.0.0",
+      "installedAt": 1776656102801
+    },
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1776656165056
+    },
+    "kb-manager": {
+      "version": "0.2.0",
+      "installedAt": 1776656223255
+    },
+    "sulada-knowledge-base": {
+      "version": "1.0.0",
+      "installedAt": 1776656705478
+    },
+    "strd-content-summarizer": {
+      "version": "1.0.0",
+      "installedAt": 1776661503920
+    },
+    "open-browser": {
+      "version": "0.1.0",
+      "installedAt": 1776657663833
+    },
+    "context-management": {
+      "version": "1.0.0",
+      "installedAt": 1776661683053
+    },
+    "less-token": {
+      "version": "1.0.4",
+      "installedAt": 1776662222930
+    },
+    "shared-pinecone-rag": {
+      "version": "1.0.1",
+      "installedAt": 1776661742464
+    },
+    "local-rag-search": {
+      "version": "0.1.0",
+      "installedAt": 1776661803104
+    },
+    "eightctl": {
+      "version": "1.0.0",
+      "installedAt": 1776662762682
+    },
+    "context-recovery": {
+      "version": "1.2.2",
+      "installedAt": 1776661924509
+    },
+    "summarize-pro": {
+      "version": "1.0.0",
+      "installedAt": 1776662942097
+    },
+    "self-evolve-agent": {
+      "version": "3.0.0",
+      "installedAt": 1776663062589
+    },
+    "knowledge-capture": {
+      "version": "0.1.0",
+      "installedAt": 1776663138536
+    },
+    "agent-knowledge": {
+      "version": "1.0.0",
+      "installedAt": 1776664504806
+    },
+    "memory-on-demand": {
+      "version": "1.0.0",
+      "installedAt": 1776664934436
+    },
+    "remember": {
+      "version": "1.0.0",
+      "installedAt": 1776665223388
+    },
+    "session-memory": {
+      "version": "2.0.0",
+      "installedAt": 1776665588427
+    },
+    "fluid-memory": {
+      "version": "1.0.9",
+      "installedAt": 1776706520347
+    },
+    "skillnet": {
+      "version": "2.0.3",
+      "installedAt": 1776696782836
+    },
+    "skill-hunter": {
+      "version": "1.0.6",
+      "installedAt": 1776706459781
+    },
+    "skill-creator": {
+      "version": "0.1.0",
+      "installedAt": 1776706729966
+    },
+    "healthcheck": {
+      "version": "1.0.2",
+      "installedAt": 1776706735236
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1776706744357
+    },
+    "documentation": {
+      "version": "1.0.0",
+      "installedAt": 1776706751068
+    },
+    "gemini-cli": {
+      "version": "1.0.0",
+      "installedAt": 1776706756973
+    },
+    "oauth": {
+      "version": "1.0.0",
+      "installedAt": 1776706763042
+    },
+    "performance-ecc": {
+      "version": "2.0.0",
+      "installedAt": 1776706768378
+    },
+    "session-watchdog": {
+      "version": "1.0.0",
+      "installedAt": 1776706774259
+    },
+    "agent-autonomy-kit-automaton": {
+      "version": "1.0.2",
+      "installedAt": 1776706785284
+    },
+    "ai-deep-learning": {
+      "version": "1.0.0",
+      "installedAt": 1776706791093
+    },
+    "rag-pipelines": {
+      "version": "1.0.0",
+      "installedAt": 1776706796485
+    }
+  }
+}
