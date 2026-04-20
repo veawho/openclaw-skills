@@ -1,0 +1,30 @@
+{
+  "name": "mega-crawler",
+  "version": "1.0.0",
+  "description": "强悍爬虫构架 - 整合clawbrowser、playwright、AI处理、向量存储的完整爬虫系统",
+  "created": "2026-04-20",
+  "author": "巫师 叔叔",
+  "homepage": "https://github.com/veawho/openclaw-skills",
+  "skills_used": [
+    "clawbrowser",
+    "playwright",
+    "ai-writing-agent",
+    "gemini",
+    "pinecone",
+    "embeddings",
+    "knowledge-base-builder",
+    "omni-coordinator",
+    "stability-guardian",
+    "watchdog"
+  ],
+  "capabilities": [
+    "web-crawling",
+    "javascript-rendering",
+    "ai-content-analysis",
+    "vectorization",
+    "semantic-search",
+    "knowledge-storage",
+    "scheduled-crawl",
+    "monitoring"
+  ]
+}

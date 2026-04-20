@@ -1,0 +1,46 @@
+# Mega Crawler 默认配置模板
+
+crawler:
+  name: default
+  seed_urls: []
+  max_depth: 3
+  concurrency: 5
+  delay: 1
+  timeout: 30
+  retry: 3
+  user_agent: "Mozilla/5.0 (compatible; MegaCrawler/1.0)"
+  
+selectors:
+  title: "h1, .title, .article-title"
+  content: "article, .content, .post-content, main"
+  links: "a[href]"
+  images: "img[src]"
+  
+filters:
+  allow_domains: []
+  deny_domains: []
+  allow_urls: []
+  deny_urls: []
+  
+ai:
+  enabled: true
+  model: gemini
+  summary_length: 200
+  extract_tags: true
+  sentiment_analysis: true
+  
+vector:
+  provider: pinecone
+  dimension: 1536
+  metric: cosine
+  batch_size: 100
+  
+storage:
+  type: lancedb
+  path: ./data/knowledge-base
+  max_size: "10gb"
+  
+monitoring:
+  enabled: true
+  log_level: info
+  metrics_interval: 60
