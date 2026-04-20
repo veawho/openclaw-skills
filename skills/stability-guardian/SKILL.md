@@ -143,3 +143,106 @@ guardian disable
 
 - [system-monitor](../system-monitor/SKILL.md)
 - [auto-optimizer](../auto-optimizer/SKILL.md)
+## Performance
+
+### Optimization
+
+- Use caching for frequently accessed data
+- Implement connection pooling for database operations
+- Optimize memory usage with streaming
+- Enable async/parallel processing
+
+### Benchmarks
+
+| Metric | Target | Current |
+|--------|--------|---------|
+| Response Time | < 100ms | - |
+| CPU Usage | < 60% | - |
+| Memory | < 512MB | - |
+| Cache Hit Rate | > 80% | - |
+
+### Caching Strategy
+
+```python
+# Enable caching
+cache = {
+    "enabled": True,
+    "ttl": 3600,
+    "max_size": "256mb"
+}
+```
+
+## Dependencies
+
+```bash
+pip install pyyaml psutil requests
+npm install axios  # for Node.js
+```
+
+## Examples
+
+### Basic Usage
+
+```bash
+# Run the monitor
+./scripts/run.sh
+
+# With options
+./scripts/run.sh --verbose --config config.yaml
+```
+
+### Advanced Usage
+
+```bash
+# Benchmark mode
+./scripts/run.sh --benchmark
+
+# Profile mode
+./scripts/run.sh --profile --output report.json
+```
+
+## API Reference
+
+### Core Functions
+
+```python
+def monitor():
+    """Start monitoring"""
+    pass
+
+def alert(message, level):
+    """Send alert notification"""
+    pass
+
+def recover():
+    """Attempt automatic recovery"""
+    pass
+
+def health_check() -> bool:
+    """Check system health"""
+    return True
+```
+
+## Configuration
+
+```yaml
+monitor:
+  enabled: true
+  interval: 30
+  
+  targets:
+    - gateway
+    - agents
+    - skills
+    
+recovery:
+  autoRestart: true
+  maxRetries: 3
+  
+alerts:
+  channels:
+    - telegram
+  thresholds:
+    cpu: 80
+    memory: 85
+```
