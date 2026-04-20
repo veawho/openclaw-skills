@@ -264,3 +264,30 @@ skill batch --files "*.txt"
 # With options
 skill batch --files "*.txt" --output-dir ./results
 ```
+
+## Modules
+
+### Main Module
+
+```python
+class Skill:
+    def __init__(self, config):
+        self.config = config
+        
+    def run(self, input_data):
+        '''Execute skill with input'''
+        return self.process(input_data)
+```
+
+### Data Module
+
+```python
+class DataHandler:
+    def load(self, path):
+        '''Load data from file'''
+        pass
+        
+    def save(self, data, path):
+        '''Save data to file'''
+        pass
+```

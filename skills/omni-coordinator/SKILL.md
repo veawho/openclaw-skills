@@ -350,3 +350,79 @@ omni stats           # 性能统计
 - [pinecone](../pinecone/SKILL.md) - 向量数据库
 - [clawbrowser](../clawbrowser/SKILL.md) - 浏览器控制
 - [multi-agent-coordinator](../multi-agent-coordinator/SKILL.md) - 多智能体协调
+## Functions
+
+### Core Functions
+
+```python
+def main():
+    '''Main entry point'''
+    pass
+
+def process(data):
+    '''Process input data'''
+    return processed_data
+
+def validate(config):
+    '''Validate configuration'''
+    return True
+```
+
+### Helper Functions
+
+```python
+def log(message):
+    '''Log message with timestamp'''
+    print(f"[{datetime.now()}] {message}")
+
+def error_handler(e):
+    '''Handle errors gracefully'''
+    logger.error(f"Error: {e}")
+```
+
+
+## Modules
+
+### Main Module
+
+```python
+class Skill:
+    def __init__(self, config):
+        self.config = config
+        
+    def run(self, input_data):
+        '''Execute skill with input'''
+        return self.process(input_data)
+```
+
+### Data Module
+
+```python
+class DataHandler:
+    def load(self, path):
+        '''Load data from file'''
+        pass
+        
+    def save(self, data, path):
+        '''Save data to file'''
+        pass
+```
+
+## Setup
+
+### Installation
+
+```bash
+pip install -r requirements.txt
+npm install  # if Node.js
+```
+
+### Configuration
+
+Create a config file at `config.yaml`:
+
+```yaml
+skill:
+  enabled: true
+  timeout: 300
+```

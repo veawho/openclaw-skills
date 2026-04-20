@@ -640,3 +640,127 @@ pip install -e .
 4. Explore advanced features
 
 For more details, see the Examples section above.
+
+## Modules
+
+### Main Module
+
+```python
+class Skill:
+    def __init__(self, config):
+        self.config = config
+        
+    def run(self, input_data):
+        '''Execute skill with input'''
+        return self.process(input_data)
+```
+
+### Data Module
+
+```python
+class DataHandler:
+    def load(self, path):
+        '''Load data from file'''
+        pass
+        
+    def save(self, data, path):
+        '''Save data to file'''
+        pass
+```
+
+
+## Overview
+
+This skill provides comprehensive functionality for task automation, intelligent processing, and system integration. It offers advanced capabilities that enable efficient workflow execution with optimized performance and reliability.
+
+## When to Use
+
+- Complex task requiring intelligent automation
+- Need for seamless system integration
+- Performance-critical applications
+- Scenarios requiring advanced resource management
+- Multi-step workflows with decision points
+
+## Examples
+
+### Quick Start
+
+```bash
+# Initialize the skill
+./scripts/run.sh init
+
+# Run with default settings
+./scripts/run.sh start
+
+# Check status
+./scripts/run.sh status
+```
+
+### Advanced Configuration
+
+```bash
+# With custom config
+./scripts/run.sh --config advanced.yaml
+
+# Parallel mode
+./scripts/run.sh --parallel --workers 8
+
+# Verbose output
+./scripts/run.sh --verbose --debug
+```
+
+## Setup
+
+### Requirements
+
+- Python 3.8+
+- 512MB RAM minimum
+- Network access for API calls
+
+### Installation
+
+```bash
+pip install -r requirements.txt
+chmod +x ./scripts/run.sh
+```
+
+### Configuration
+
+```yaml
+skill:
+  name: advanced-skill
+  version: 1.0.0
+  enabled: true
+
+execution:
+  timeout: 300
+  retry: 3
+  parallel: true
+
+performance:
+  cache: true
+  cache_ttl: 3600
+  workers: 4
+```
+
+## Getting Started
+
+1. Install dependencies: `pip install -r requirements.txt`
+2. Configure: Edit `config.yaml` with your settings
+3. Test: Run `./scripts/run.sh test`
+4. Deploy: Run `./scripts/run.sh start`
+
+## Performance Tips
+
+- Enable caching for repeated operations
+- Use parallel execution for independent tasks
+- Monitor memory usage for large datasets
+- Configure appropriate timeout values
+
+## Troubleshooting
+
+If you encounter issues:
+1. Check logs: `./scripts/run.sh logs`
+2. Verify config: `./scripts/run.sh validate`
+3. Reset: `./scripts/run.sh reset`
+4. Contact support if persists

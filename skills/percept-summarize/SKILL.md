@@ -274,3 +274,30 @@ pip install -e .
 ### Configuration
 
 Create a config file or set environment variables as needed.
+
+## Modules
+
+### Main Module
+
+```python
+class Skill:
+    def __init__(self, config):
+        self.config = config
+        
+    def run(self, input_data):
+        '''Execute skill with input'''
+        return self.process(input_data)
+```
+
+### Data Module
+
+```python
+class DataHandler:
+    def load(self, path):
+        '''Load data from file'''
+        pass
+        
+    def save(self, data, path):
+        '''Save data to file'''
+        pass
+```

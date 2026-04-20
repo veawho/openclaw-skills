@@ -491,3 +491,30 @@ pip install -e .
 - May require specific environment configuration
 - Performance may vary based on input size
 - Some features require optional dependencies
+
+## Modules
+
+### Main Module
+
+```python
+class Skill:
+    def __init__(self, config):
+        self.config = config
+        
+    def run(self, input_data):
+        '''Execute skill with input'''
+        return self.process(input_data)
+```
+
+### Data Module
+
+```python
+class DataHandler:
+    def load(self, path):
+        '''Load data from file'''
+        pass
+        
+    def save(self, data, path):
+        '''Save data to file'''
+        pass
+```

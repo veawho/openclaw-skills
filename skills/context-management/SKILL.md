@@ -495,3 +495,37 @@ pip install -e .
 - May require specific environment configuration
 - Performance may vary based on input size
 - Some features require optional dependencies
+
+## Modules
+
+### Main Module
+
+```python
+class Skill:
+    def __init__(self, config):
+        self.config = config
+        
+    def run(self, input_data):
+        '''Execute skill with input'''
+        return self.process(input_data)
+```
+
+### Data Module
+
+```python
+class DataHandler:
+    def load(self, path):
+        '''Load data from file'''
+        pass
+        
+    def save(self, data, path):
+        '''Save data to file'''
+        pass
+```
+
+## Getting Started
+
+1. Install dependencies: `pip install -r requirements.txt`
+2. Configure: Edit `config.yaml`
+3. Run: `./scripts/run.sh`
+4. Verify: Check logs for successful startup
