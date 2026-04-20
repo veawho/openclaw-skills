@@ -67,3 +67,112 @@ evolution rollback    # 回退版本
 
 - [self-evolve-agent](../self-evolve-agent/SKILL.md)
 - [auto-optimizer](../auto-optimizer/SKILL.md)
+## Performance
+
+### Optimization Strategies
+
+- Use caching for frequently accessed data
+- Implement connection pooling for database operations
+- Optimize memory usage with streaming
+- Consider lazy loading for better performance
+
+### Benchmarking
+
+```bash
+# Run performance test
+./scripts/run.sh --benchmark
+
+# Profile memory usage
+./scripts/run.sh --profile
+
+# Check latency
+./scripts/run.sh --latency
+```
+
+### Metrics
+
+| Metric | Target | Current |
+|--------|--------|---------|
+| Response Time | < 100ms | - |
+| CPU Usage | < 60% | - |
+| Memory | < 512MB | - |
+| Cache Hit Rate | > 80% | - |
+
+## Dependencies
+
+```bash
+# Core dependencies
+pip install requests pyyaml
+
+# Optional
+pip install psutil  # for monitoring
+```
+
+## Examples
+
+### Basic Usage
+
+```bash
+# Run the optimizer
+./scripts/run.sh
+
+# With options
+./scripts/run.sh --config custom.yaml
+```
+
+### Advanced Usage
+
+```bash
+# Benchmark mode
+./scripts/run.sh --benchmark --iterations 100
+
+# Profile mode
+./scripts/run.sh --profile --output report.json
+```
+
+### Integration
+
+```python
+from optimizer import optimize
+
+result = optimize(
+    target="performance",
+    iterations=10,
+    config={"cache": True}
+)
+```
+
+## API Reference
+
+### Functions
+
+```python
+def optimize(target: str, **kwargs) -> dict:
+    """Run optimization on target"""
+    pass
+
+def benchmark() -> dict:
+    """Run performance benchmark"""
+    pass
+
+def health_check() -> bool:
+    """Check system health"""
+    pass
+```
+
+## Configuration
+
+```yaml
+optimization:
+  enabled: true
+  target: performance
+  
+performance:
+  cache:
+    enabled: true
+    ttl: 3600
+    
+  parallel:
+    enabled: true
+    max_workers: 4
+```
